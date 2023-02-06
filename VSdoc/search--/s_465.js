@@ -1,0 +1,1 @@
+search_result['465']=["topic_0000000000000105.html","ConnectionService.GetConnectionsAsync Method","Method responsible accessing the database and return all connections in a list"];

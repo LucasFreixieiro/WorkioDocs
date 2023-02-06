@@ -1,0 +1,1 @@
+search_result['310']=["topic_00000000000000AE.html","UserController.PendingConnections Method","Ação para listar as conexões pendentes de um utilizador"];

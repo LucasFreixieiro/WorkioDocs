@@ -1,0 +1,1 @@
+search_result['582']=["topic_0000000000000148.html","UserService.AddEndorsement Method","Recebe uma habilidade e atualiza o numero de recomendações da mesma após outro utilizador recomendar a habilidade"];

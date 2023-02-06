@@ -1,0 +1,1 @@
+search_result['525']=["topic_0000000000000128.html","IUserService.DeleteExperience Method","Remove uma experiência com um determinado id"];

@@ -1,0 +1,1 @@
+search_result['573']=["topic_000000000000013F.html","UserService.GetUser Method","Obtem um utilizador com um Id especifico."];

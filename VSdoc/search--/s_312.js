@@ -1,0 +1,1 @@
+search_result['312']=["topic_00000000000000B0.html","UserController.AddConnection Method","Ação para enviar um pedido de conexão para um utilizador"];

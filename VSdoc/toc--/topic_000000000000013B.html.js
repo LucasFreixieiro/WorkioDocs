@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000014A.html"],['314',"Workio.Services Namespace","topic_0000000000000134.html"],['320',"CommonLocalizationService Class","topic_0000000000000139.html"],['322',"Methods","topic_0000000000000139_methods--.html"],['323',"Get Method","topic_000000000000013B.html"]];

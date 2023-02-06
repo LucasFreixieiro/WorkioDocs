@@ -1,0 +1,1 @@
+search_result['447']=["topic_00000000000000FD.html","User.Skills Property","Lista de habilidades, cada habilidade tem uma lista de pessoas que recomenda a habilidade deste utilizador."];
