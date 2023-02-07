@@ -1,2 +1,0 @@
-# WorkioDocs
-Workio Documentation
