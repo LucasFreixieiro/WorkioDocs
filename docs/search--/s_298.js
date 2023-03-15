@@ -1,1 +1,1 @@
-search_result['298']=["topic_00000000000000A2.html","UserController.DeleteSkill Method","Controlador para eliminar uma skill"];
+search_result['298']=["topic_000000000000009E_vars--.html","CurrentDateAttribute Fields",""];

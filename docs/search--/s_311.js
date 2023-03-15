@@ -1,1 +1,1 @@
-search_result['311']=["topic_00000000000000AF.html","UserController.AcceptConnection Method","Ação para aceitar uma conexão de um utilizador"];
+search_result['311']=["topic_00000000000000A4_events--.html","RequiredIfAttribute Events",""];

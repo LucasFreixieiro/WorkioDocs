@@ -1,1 +1,1 @@
-search_result['22']=["topic_0000000000000009_methods--.html","EmailModel Methods",""];
+search_result['22']=["topic_0000000000000009_methods--.html","ChangePasswordModel Methods",""];

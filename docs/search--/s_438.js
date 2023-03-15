@@ -1,1 +1,1 @@
-search_result['438']=["topic_00000000000000F6_methods--.html","User Methods",""];
+search_result['438']=["topic_00000000000000E8.html","ReportsController.ReportTeam (Guid) Method","Ação para encaminhar para a página de report de equipa"];

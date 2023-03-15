@@ -1,0 +1,1 @@
+search_result['1044']=["topic_000000000000026C.html","IEventsService.GetNumberOfUpvotes Method","Obtem o numero de upvotes de um evento"];

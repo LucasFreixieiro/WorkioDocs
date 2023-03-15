@@ -1,1 +1,1 @@
-search_result['391']=["topic_00000000000000E0_methods--.html","Report Methods",""];
+search_result['391']=["topic_00000000000000CF.html","EventEnrollmentsController.EnrollUser Method","Metodo utilizado para inscrever um utilizador no evento"];

@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>Connection.id Property</title>
+	<title>BlockedUsersController Constructor</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">Connection.id Property</h1>
+		<h1 class="title">BlockedUsersController Constructor</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000BF.html">Workio.Models</a>
+<a href="topic_00000000000000C3.html">Workio.Controllers</a>
 
 
 
@@ -89,6 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
+        <summary-info>Construtor da classe.</summary-info>
 
 
 
@@ -138,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">&lt;Key()&gt; _&nbsp;<br />Public Property id() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>blockService</i> As <a target="_top" href="topic_0000000000000277.html" onclick="this.target='';return true;">IBlockService</a>, _&nbsp;<br />   ByVal <i>userService</i> As <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a> _&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">[Key()]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> id {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public BlockedUsersController(&nbsp;<br />   <a target="_top" href="topic_0000000000000277.html" onclick="this.target='';return true;">IBlockService</a> <i>blockService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a> <i>userService</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">[Key()]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> id {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />BlockedUsersController(&nbsp;<br />   <a target="_top" href="topic_0000000000000277.html" onclick="this.target='';return true;">IBlockService</a>^ <i>blockService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>^ <i>userService</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   Key()&nbsp;<br />function get id() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>;&nbsp;<br />public &nbsp;<br />   Key()&nbsp;<br />function set id(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>);</pre>			
+					<pre xml:space="preserve" class="brush: js">public function BlockedUsersController(&nbsp;<br />    <i>blockService</i> : <a target="_top" href="topic_0000000000000277.html" onclick="this.target='';return true;">IBlockService</a>,&nbsp;<br />    <i>userService</i> : <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>&nbsp;<br />);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -267,11 +268,36 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="blockService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			blockService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000277.html" onclick="this.target='';return true;">IBlockService</a> 
+	</dd>
+</dl>
+<p>
+	Parametro de Serviço de Bloqueios para inicialização 
+</p>
+<dl paramName="userService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			userService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a> 
+	</dd>
+</dl>
+<p>
+	Parametro de Serviço de Users para inicialização 
+</p>
 
-	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> 
-	
+<p />
+
 
 
 
@@ -359,11 +385,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000C7.html">Connection Class</a><br />
+			<a href="topic_00000000000000C7.html">BlockedUsersController Class</a><br />
 
 
 
-<a href="topic_00000000000000BF.html">Workio.Models Namespace</a><br />
+<a href="topic_00000000000000C3.html">Workio.Controllers Namespace</a><br />
 
 
 			

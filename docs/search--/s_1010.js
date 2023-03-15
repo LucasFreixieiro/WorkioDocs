@@ -1,0 +1,1 @@
+search_result['1010']=["topic_000000000000024F.html","EventService.RemoveInterestedTeam Method","Remove uma equipa interessada"];

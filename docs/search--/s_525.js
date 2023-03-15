@@ -1,1 +1,1 @@
-search_result['525']=["topic_0000000000000128.html","IUserService.DeleteExperience Method","Remove uma experiência com um determinado id"];
+search_result['525']=["topic_000000000000011E.html","UserController.EditSkill Method","Controlador para editar uma skill"];

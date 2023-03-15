@@ -1,1 +1,1 @@
-search_result['537']=["topic_000000000000012F.html","IReportReasonService.AddReport Method",""];
+search_result['537']=["topic_000000000000012A.html","UserController.Connections Method","Ação para listar as conexões de um utilizador"];

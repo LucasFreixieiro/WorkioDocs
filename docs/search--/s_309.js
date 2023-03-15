@@ -1,1 +1,1 @@
-search_result['309']=["topic_00000000000000AD.html","UserController.Connections Method","Ação para listar as conexões de um utilizador"];
+search_result['309']=["topic_00000000000000A4.html","RequiredIfAttribute Class",""];

@@ -1,1 +1,1 @@
-search_result['379']=["topic_00000000000000D8_props--.html","ExperienceModel Properties",""];
+search_result['379']=["topic_00000000000000C8.html","BlockedUsersController Constructor","Construtor da classe."];

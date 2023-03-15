@@ -1,0 +1,1 @@
+search_result['1011']=["topic_0000000000000250.html","EventService.IsTeamInterested Method","Verifica se o utilizador logado de momento ja mostrou interesse numa equipa que lidere no evento que se encotra"];

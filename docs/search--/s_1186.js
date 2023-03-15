@@ -1,0 +1,1 @@
+search_result['1186']=["topic_00000000000002C8.html","ITeamsService.RejectInvite Method","Rejeita o pedido de uma equipa"];

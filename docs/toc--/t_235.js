@@ -1,1 +1,1 @@
-c['235']=[['236',"OnConfiguring Method","topic_00000000000000B5.html",0],['237',"OnModelCreating Method","topic_00000000000000BD.html",0]];
+c['235']=[['236',"BlockUser Method","topic_00000000000000C9.html",0],['237',"BlockedUsers Method","topic_00000000000000CA.html",0],['238',"Unblock Method","topic_00000000000000CB.html",0],['239',"UnblockFromConnections Method","topic_00000000000000CC.html",0]];

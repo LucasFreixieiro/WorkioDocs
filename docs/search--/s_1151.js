@@ -1,0 +1,1 @@
+search_result['1151']=["topic_00000000000002AF.html","ISearchService.GetEventsByName Method","Obtem todas os eventos com um determinado nome"];

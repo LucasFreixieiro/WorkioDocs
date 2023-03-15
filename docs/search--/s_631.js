@@ -1,0 +1,1 @@
+search_result['631']=["topic_000000000000016A.html","Event.IsInPerson Property","Indica se o evento ocorre num local fisíco"];

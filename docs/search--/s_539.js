@@ -1,1 +1,1 @@
-search_result['539']=["topic_0000000000000130_attached_props--.html","ReportReasonService Attached Properties",""];
+search_result['539']=["topic_000000000000012C.html","UserController.AddConnection Method","Ação para enviar um pedido de conexão para um utilizador"];

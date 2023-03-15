@@ -1,0 +1,1 @@
+search_result['1150']=["topic_00000000000002AE.html","ISearchService.GetTeamsByName Method","Obtem todas as equipas com um determinado nome"];

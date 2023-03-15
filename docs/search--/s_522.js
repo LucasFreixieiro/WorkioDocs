@@ -1,1 +1,1 @@
-search_result['522']=["topic_0000000000000125.html","IUserService.GetUserExperience Method","Obtem todas as experiências de um utilizador"];
+search_result['522']=["topic_000000000000011B.html","UserController Constructor","Constructor da classe."];

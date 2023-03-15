@@ -1,0 +1,1 @@
+search_result['1008']=["topic_000000000000024D.html","EventService.IsUserInterested Method","Verifica se o utilizador logado de momento ja mostrou interesse no evento que se encotra"];

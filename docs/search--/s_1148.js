@@ -1,0 +1,1 @@
+search_result['1148']=["topic_00000000000002AC.html","ISearchService.GetUsersByName Method","Obtem todos os utilizadores com um determinado nome"];

@@ -1,1 +1,1 @@
-search_result['467']=["topic_0000000000000107.html","ConnectionService.RemoveConnection Method","Method responsible for removing a connection from the database"];
+search_result['467']=["topic_00000000000000F7.html","SearchController Class",""];

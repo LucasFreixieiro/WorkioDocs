@@ -1,1 +1,1 @@
-search_result['300']=["topic_00000000000000A4.html","UserController.AddExperience Method","Ação para adicionar uma experiência no perfil do utilizador"];
+search_result['300']=["topic_00000000000000A0.html","CurrentDateAttribute.IsValid Method",""];

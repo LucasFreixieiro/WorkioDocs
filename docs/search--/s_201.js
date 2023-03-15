@@ -1,1 +1,1 @@
-search_result['201']=["topic_0000000000000071_methods--.html","ResetPasswordModel Methods",""];
+search_result['201']=["topic_000000000000006F.html","LoginModel.ExternalLogins Property","///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used\r\n        ///     directly from your code. This API may change or be removed in future relea..."];

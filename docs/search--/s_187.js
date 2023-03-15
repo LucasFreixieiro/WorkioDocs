@@ -1,1 +1,1 @@
-search_result['187']=["topic_0000000000000069_events--.html","InputModel Events",""];
+search_result['187']=["topic_0000000000000068_methods--.html","ForgotPasswordModel Methods",""];

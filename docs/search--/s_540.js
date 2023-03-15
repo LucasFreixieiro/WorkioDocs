@@ -1,1 +1,1 @@
-search_result['540']=["topic_0000000000000130_events--.html","ReportReasonService Events",""];
+search_result['540']=["topic_000000000000012D.html","UserController.RemoveConnection Method","Ação para remover uma conexão de um utilizador"];

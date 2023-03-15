@@ -1,1 +1,1 @@
-search_result['466']=["topic_0000000000000106.html","ConnectionService.AddConnection Method","Method responsible for adding a connection to the database"];
+search_result['466']=["topic_00000000000000F6.html","RequestEntityStatusController.DeleteConfirmed Method","Ação que permite remover um pedido após confirmação\r\n\u003cparam name=\"id\"\u003eId do pedido\u003c/param\u003e"];

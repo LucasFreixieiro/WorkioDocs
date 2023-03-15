@@ -1,1 +1,1 @@
-c['247']=[['248',"Properties","topic_00000000000000C7_props--.html",1]];
+c['247']=[['248',"TeamEnrollment(Team, Guid) Method","topic_00000000000000D2.html",0],['249',"TeamEnrollment(Guid) Method","topic_00000000000000D1.html",0]];

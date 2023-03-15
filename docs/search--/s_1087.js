@@ -1,0 +1,1 @@
+search_result['1087']=["topic_0000000000000288.html","IUserService.DeleteSkill Method","Recebe um id de uma skill e vai remove-la"];

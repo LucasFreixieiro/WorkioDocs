@@ -1,1 +1,1 @@
-search_result['519']=["topic_0000000000000122.html","IUserService.AddSkill Method","Recebe uma habilidade e adiciona-a a um utilizador na base de dados"];
+search_result['519']=["topic_000000000000011A_methods--.html","UserController Methods",""];

@@ -1,1 +1,1 @@
-search_result['21']=["topic_0000000000000009_events--.html","EmailModel Events",""];
+search_result['21']=["topic_0000000000000009_events--.html","ChangePasswordModel Events",""];

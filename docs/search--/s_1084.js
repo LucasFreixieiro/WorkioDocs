@@ -1,0 +1,1 @@
+search_result['1084']=["topic_0000000000000285.html","IUserService.GetUserSkills Method","Obtem todas as habilidades e recomendações para um utilizador com um Id especifico."];

@@ -1,0 +1,1 @@
+search_result['624']=["topic_0000000000000163.html","Event.Tags Property","Texto pleno com as tags do evento"];

@@ -1,0 +1,1 @@
+search_result['1266']=["topic_0000000000000304.html","RatingService.GetNumberOfRatings Method","Obtem o numero de ratings de um utilizador"];

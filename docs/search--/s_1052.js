@@ -1,0 +1,1 @@
+search_result['1052']=["topic_0000000000000274.html","IEventsService.AddInterestedTeam Method","Adiciona à base de dados a equipa interessada no evento."];

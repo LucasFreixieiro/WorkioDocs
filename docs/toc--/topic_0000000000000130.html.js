@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000014A.html"],['387',"Workio.Services.ReportServices Namespace","topic_000000000000012C.html"],['388',"ReportReasonService Class","topic_0000000000000130.html"]];
+var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['376',"Workio.Data Namespace","topic_000000000000012E.html"],['377',"ApplicationDbContext Class","topic_000000000000012F.html"],['378',"ApplicationDbContext Constructor","topic_0000000000000130.html"]];

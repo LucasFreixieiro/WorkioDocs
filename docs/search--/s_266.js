@@ -1,1 +1,1 @@
-search_result['266']=["topic_0000000000000091_overloads--.html","ReportsController.ReportUser Method","Ação para encaminhar para a página de report de utilizador"];
+search_result['266']=["topic_0000000000000092.html","InputModel Class","This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used\r\n    directly from your code. This API may change or be removed in future releases."];

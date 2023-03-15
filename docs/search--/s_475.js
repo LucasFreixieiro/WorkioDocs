@@ -1,1 +1,1 @@
-search_result['475']=["topic_000000000000010A.html","IConnectionService.GetConnectionsAsync Method",""];
+search_result['475']=["topic_00000000000000FA.html","SearchController.Index Method","Ação que nos dá os utilizadores filtrados pelo parametro"];

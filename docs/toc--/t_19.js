@@ -1,1 +1,1 @@
-c['19']=[['20',"Name Property","topic_000000000000004F.html",0]];
+c['19']=[['20',"ConfirmEmailChangeModel Constructor","topic_0000000000000059.html",0],['21',"Properties","topic_0000000000000058_props--.html",1],['23',"Methods","topic_0000000000000058_methods--.html",1]];

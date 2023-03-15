@@ -1,1 +1,1 @@
-search_result['526']=["topic_0000000000000129.html","IUserService.AddEndorsement Method",""];
+search_result['526']=["topic_000000000000011F.html","UserController.DeleteSkill Method","Controlador para eliminar uma skill"];

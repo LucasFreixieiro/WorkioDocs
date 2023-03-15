@@ -1,1 +1,1 @@
-search_result['294']=["topic_000000000000009E.html","UserController Constructor","Constructor da classe."];
+search_result['294']=["topic_000000000000009E_attached_props--.html","CurrentDateAttribute Attached Properties",""];

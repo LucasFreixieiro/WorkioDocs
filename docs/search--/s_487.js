@@ -1,1 +1,1 @@
-search_result['487']=["topic_0000000000000111.html","IEmailService.SendRecoverPasswordEmail Method",""];
+search_result['487']=["topic_0000000000000101.html","TeamsController.CloseInscriptions Method",""];

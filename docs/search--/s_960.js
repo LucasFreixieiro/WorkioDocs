@@ -1,0 +1,1 @@
+search_result['960']=["topic_0000000000000231.html","ConnectionService.GetUserPendingConnectionsAsync Method","Obtem as conexões pedentes do utilizador"];

@@ -1,0 +1,1 @@
+search_result['1041']=["topic_0000000000000269.html","IEventsService.AlreadyUpvoted Method","Verifica se o utilizador já deu upvote"];

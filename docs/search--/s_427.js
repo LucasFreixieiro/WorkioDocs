@@ -1,1 +1,1 @@
-search_result['427']=["topic_00000000000000F1_events--.html","SkillModel Events",""];
+search_result['427']=["topic_00000000000000E3.html","RatingModelsController.Delete Method","Ação para encaminhar para apagar rating"];

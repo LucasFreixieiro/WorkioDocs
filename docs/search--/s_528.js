@@ -1,1 +1,1 @@
-search_result['528']=["topic_000000000000012B.html","IUserService.GetUsersAsync Method",""];
+search_result['528']=["topic_0000000000000121.html","UserController.AddExperience Method","Ação para adicionar uma experiência no perfil do utilizador"];

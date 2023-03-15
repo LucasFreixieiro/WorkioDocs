@@ -1,1 +1,1 @@
-c['295']=[['296',"Endorsers Property","topic_00000000000000F5.html",0],['297',"Name Property","topic_00000000000000F3.html",0],['298',"SkillId Property","topic_00000000000000F2.html",0],['299',"UserId Property","topic_00000000000000F4.html",0]];
+c['295']=[['296',"SearchController Constructor","topic_00000000000000F9.html",0],['297',"Properties","topic_00000000000000F7_props--.html",1],['299',"Methods","topic_00000000000000F7_methods--.html",1]];

@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>ApplicationDbContext Constructor</title>
+	<title>EventsController Constructor</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">ApplicationDbContext Constructor</h1>
+		<h1 class="title">EventsController Constructor</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000B2.html">Workio.Data</a>
+<a href="topic_00000000000000B2.html">Workio.Controllers.Events</a>
 
 
 
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>options</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontextoptions-1">DbContextOptions</a>(Of <a target="_top" href="topic_00000000000000B3.html" onclick="this.target='';return true;">ApplicationDbContext</a>) _&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>signInManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>(Of <a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>userManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>(Of <a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>eventsService</i> As <a target="_top" href="topic_000000000000025F.html" onclick="this.target='';return true;">IEventsService</a>, _&nbsp;<br />   ByVal <i>toastNotification</i> As <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>, _&nbsp;<br />   ByVal <i>localizationService</i> As <a target="_top" href="topic_0000000000000293.html" onclick="this.target='';return true;">ILocalizationService</a> _&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public ApplicationDbContext(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontextoptions-1">DbContextOptions</a>&lt;<a target="_top" href="topic_00000000000000B3.html" onclick="this.target='';return true;">ApplicationDbContext</a>&gt; <i>options</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public EventsController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt; <i>signInManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt; <i>userManager</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000025F.html" onclick="this.target='';return true;">IEventsService</a> <i>eventsService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000293.html" onclick="this.target='';return true;">ILocalizationService</a> <i>localizationService</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />ApplicationDbContext(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontextoptions-1">DbContextOptions</a>&lt;<a target="_top" href="topic_00000000000000B3.html" onclick="this.target='';return true;">ApplicationDbContext</a>^&gt;^ <i>options</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />EventsController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>signInManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>userManager</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000025F.html" onclick="this.target='';return true;">IEventsService</a>^ <i>eventsService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>^ <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000293.html" onclick="this.target='';return true;">ILocalizationService</a>^ <i>localizationService</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,14 +268,66 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 <h4 class="subHeading">
-	Parameters</h4><dl paramName="options" class="parameterList">
+	Parameters</h4><dl paramName="signInManager" class="parameterList">
 	<dt>
 		<span class="parameter">
-			options
+			signInManager
 		</span>
 	</dt>
 	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontextoptions-1">DbContextOptions</a>&lt;<a target="_top" href="topic_00000000000000B3.html" onclick="this.target='';return true;">ApplicationDbContext</a>&gt; 
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt; 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="userManager" class="parameterList">
+	<dt>
+		<span class="parameter">
+			userManager
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt; 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="eventsService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			eventsService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_000000000000025F.html" onclick="this.target='';return true;">IEventsService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="toastNotification" class="parameterList">
+	<dt>
+		<span class="parameter">
+			toastNotification
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="localizationService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			localizationService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000293.html" onclick="this.target='';return true;">ILocalizationService</a> 
 	</dd>
 </dl>
 <p>
@@ -371,11 +423,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000B3.html">ApplicationDbContext Class</a><br />
+			<a href="topic_00000000000000B3.html">EventsController Class</a><br />
 
 
 
-<a href="topic_00000000000000B2.html">Workio.Data Namespace</a><br />
+<a href="topic_00000000000000B2.html">Workio.Controllers.Events Namespace</a><br />
 
 
 			

@@ -1,1 +1,1 @@
-search_result['486']=["topic_0000000000000110.html","IEmailService.SendEmail Method",""];
+search_result['486']=["topic_0000000000000100.html","TeamsController.OpenInscriptions Method",""];

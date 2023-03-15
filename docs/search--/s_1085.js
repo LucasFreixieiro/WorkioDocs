@@ -1,0 +1,1 @@
+search_result['1085']=["topic_0000000000000286.html","IUserService.AddSkill Method","Recebe uma habilidade e adiciona-a a um utilizador na base de dados"];

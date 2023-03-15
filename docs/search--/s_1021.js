@@ -1,0 +1,1 @@
+search_result['1021']=["topic_000000000000025A.html","EventService.isCreator Method","Verifica se o utilizador atual é o criador do evento"];

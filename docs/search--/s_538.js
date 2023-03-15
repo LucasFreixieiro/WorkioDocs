@@ -1,1 +1,1 @@
-search_result['538']=["topic_0000000000000130.html","ReportReasonService Class",""];
+search_result['538']=["topic_000000000000012B.html","UserController.AcceptConnection Method","Ação para aceitar uma conexão de um utilizador"];

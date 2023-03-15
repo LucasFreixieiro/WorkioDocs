@@ -1,1 +1,1 @@
-search_result['347']=["topic_00000000000000C7_events--.html","Connection Events",""];
+search_result['347']=["topic_00000000000000B6.html","EventsController.Details Method",""];

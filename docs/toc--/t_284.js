@@ -1,1 +1,1 @@
-c['284']=[['285',"Properties","topic_00000000000000E9_props--.html",1]];
+c['284']=[['285',"Create Method","topic_00000000000000F1_overloads--.html",1],['288',"Delete Method","topic_00000000000000F5.html",0],['289',"DeleteConfirmed Method","topic_00000000000000F6.html",0],['290',"Details Method","topic_00000000000000F0.html",0],['291',"Edit Method","topic_00000000000000F3_overloads--.html",1],['294',"Index Method","topic_00000000000000EF.html",0]];

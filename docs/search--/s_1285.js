@@ -1,0 +1,1 @@
+search_result['1285']=["topic_0000000000000312.html","UserService.RemoveEndorsement Method","Recebe uma habilidade e atualiza os endorsements da mesma, após outro utilizador retirar a recomendação dada anteriormente"];

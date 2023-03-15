@@ -1,1 +1,1 @@
-search_result['506']=["topic_000000000000011C_methods--.html","IBlockService Methods",""];
+search_result['506']=["topic_0000000000000110.html","TeamsController.Delete Method",""];

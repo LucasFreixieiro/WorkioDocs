@@ -1,0 +1,1 @@
+search_result['1061']=["topic_0000000000000278.html","IBlockService.GetBlocksAsync Method","Use este método para obter todos os registos de bloqueios."];
