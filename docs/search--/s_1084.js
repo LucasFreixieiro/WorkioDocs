@@ -1,1 +1,1 @@
-search_result['1084']=["topic_0000000000000285.html","IUserService.GetUserSkills Method","Obtem todas as habilidades e recomendações para um utilizador com um Id especifico."];
+search_result['1084']=["topic_000000000000018F.html","NotificationsController Class","Controlador com ações para obter notificações e mudar o seu estado"];

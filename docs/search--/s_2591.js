@@ -1,0 +1,1 @@
+search_result['2591']=["topic_000000000000048D.html","EventService.GetTopEvents Method","Obtem uma lista de eventos ordenada pelo diferença entre upvotes e downvotes de um evento"];

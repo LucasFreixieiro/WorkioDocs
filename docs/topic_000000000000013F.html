@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>ApplicationDbContext.ReportEvents Property</title>
+	<title>AdminController Constructor</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">ApplicationDbContext.ReportEvents Property</h1>
+		<h1 class="title">AdminController Constructor</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_000000000000012E.html">Workio.Data</a>
+<a href="topic_000000000000013D.html">Workio.Controllers</a>
 
 
 
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Property ReportEvents() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbset-1">DbSet</a>(Of <a target="_top" href="topic_00000000000001D7.html" onclick="this.target='';return true;">ReportEvent</a>)</pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>reportReasonService</i> As <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a>, _&nbsp;<br />   ByVal <i>userService</i> As <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a>, _&nbsp;<br />   ByVal <i>adminService</i> As <a target="_top" href="topic_000000000000041B.html" onclick="this.target='';return true;">IAdminService</a>, _&nbsp;<br />   ByVal <i>logsService</i> As <a target="_top" href="topic_00000000000003E5.html" onclick="this.target='';return true;">ILogsService</a>, _&nbsp;<br />   ByVal <i>toastNotification</i> As <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>, _&nbsp;<br />   ByVal <i>emailService</i> As <a target="_top" href="topic_0000000000000470.html" onclick="this.target='';return true;">IEmailService</a>, _&nbsp;<br />   ByVal <i>teamsService</i> As <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a>, _&nbsp;<br />   ByVal <i>userManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>(Of <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>roleManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.rolemanager-1">RoleManager</a>(Of <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.identityrole">IdentityRole</a>), _&nbsp;<br />   ByVal <i>localizationService</i> As <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a>, _&nbsp;<br />   ByVal <i>notificationManager</i> As <a target="_top" href="topic_000000000000022A.html" onclick="this.target='';return true;">INotificationManager</a> _&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbset-1">DbSet</a>&lt;<a target="_top" href="topic_00000000000001D7.html" onclick="this.target='';return true;">ReportEvent</a>&gt; ReportEvents {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public AdminController(&nbsp;<br />   <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a> <i>reportReasonService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a> <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000041B.html" onclick="this.target='';return true;">IAdminService</a> <i>adminService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000003E5.html" onclick="this.target='';return true;">ILogsService</a> <i>logsService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000470.html" onclick="this.target='';return true;">IEmailService</a> <i>emailService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a> <i>teamsService</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; <i>userManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.rolemanager-1">RoleManager</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.identityrole">IdentityRole</a>&gt; <i>roleManager</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> <i>localizationService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000022A.html" onclick="this.target='';return true;">INotificationManager</a> <i>notificationManager</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbset-1">DbSet</a>&lt;<a target="_top" href="topic_00000000000001D7.html" onclick="this.target='';return true;">ReportEvent</a>^&gt;^ ReportEvents {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbset-1">DbSet</a>&lt;<a target="_top" href="topic_00000000000001D7.html" onclick="this.target='';return true;">ReportEvent</a>^&gt;^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbset-1">DbSet</a>&lt;<a target="_top" href="topic_00000000000001D7.html" onclick="this.target='';return true;">ReportEvent</a>^&gt;^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />AdminController(&nbsp;<br />   <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a>^ <i>reportReasonService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a>^ <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000041B.html" onclick="this.target='';return true;">IAdminService</a>^ <i>adminService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000003E5.html" onclick="this.target='';return true;">ILogsService</a>^ <i>logsService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>^ <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000470.html" onclick="this.target='';return true;">IEmailService</a>^ <i>emailService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a>^ <i>teamsService</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>userManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.rolemanager-1">RoleManager</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.identityrole">IdentityRole</a>^&gt;^ <i>roleManager</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a>^ <i>localizationService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000022A.html" onclick="this.target='';return true;">INotificationManager</a>^ <i>notificationManager</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -267,11 +267,153 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="reportReasonService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			reportReasonService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="userService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			userService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="adminService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			adminService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_000000000000041B.html" onclick="this.target='';return true;">IAdminService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="logsService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			logsService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000003E5.html" onclick="this.target='';return true;">ILogsService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="toastNotification" class="parameterList">
+	<dt>
+		<span class="parameter">
+			toastNotification
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="emailService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			emailService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000470.html" onclick="this.target='';return true;">IEmailService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="teamsService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			teamsService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="userManager" class="parameterList">
+	<dt>
+		<span class="parameter">
+			userManager
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="roleManager" class="parameterList">
+	<dt>
+		<span class="parameter">
+			roleManager
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.rolemanager-1">RoleManager</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.identityrole">IdentityRole</a>&gt; 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="localizationService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			localizationService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="notificationManager" class="parameterList">
+	<dt>
+		<span class="parameter">
+			notificationManager
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_000000000000022A.html" onclick="this.target='';return true;">INotificationManager</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
 
-	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbset-1">DbSet</a>&lt;<a target="_top" href="topic_00000000000001D7.html" onclick="this.target='';return true;">ReportEvent</a>&gt; 
-	
+<p />
+
 
 
 
@@ -359,11 +501,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_000000000000012F.html">ApplicationDbContext Class</a><br />
+			<a href="topic_000000000000013E.html">AdminController Class</a><br />
 
 
 
-<a href="topic_000000000000012E.html">Workio.Data Namespace</a><br />
+<a href="topic_000000000000013D.html">Workio.Controllers Namespace</a><br />
 
 
 			

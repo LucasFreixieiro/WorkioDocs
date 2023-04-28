@@ -1,1 +1,1 @@
-c['910']=[['911',"AdminController_Index_ReturnsSuccess Method","topic_000000000000032C.html",0],['912',"SetUp Method","topic_000000000000032B.html",0]];
+c['910']=[['911',"TagId Property","topic_000000000000038B.html",0],['912',"TagName Property","topic_000000000000038C.html",0],['913',"TeamId Property","topic_000000000000038D.html",0]];

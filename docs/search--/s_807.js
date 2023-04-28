@@ -1,1 +1,1 @@
-search_result['807']=["topic_00000000000001D3.html","Report.ReporterId Property",""];
+search_result['807']=["topic_0000000000000113.html","AdminTeamController.GetClosedTeamData Method","Obtem e trabalha as equipas fechadas para serem usadas na tabela."];

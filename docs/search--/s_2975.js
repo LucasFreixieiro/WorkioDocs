@@ -1,0 +1,1 @@
+search_result['2975']=["topic_00000000000005AB.html","TeamsService.GetRequestById Method","Obtem o pedido de adesão a uma equipa."];

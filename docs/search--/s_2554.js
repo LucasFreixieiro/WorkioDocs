@@ -1,0 +1,1 @@
+search_result['2554']=["topic_0000000000000472.html","IEmailService.SendRecoverPasswordEmail Method","Envia um email para a recuperação da password de um utilizador."];

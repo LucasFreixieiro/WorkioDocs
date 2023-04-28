@@ -1,1 +1,1 @@
-search_result['795']=["topic_00000000000001CC.html","RatingModel.RatingId Property",""];
+search_result['795']=["topic_000000000000010E.html","AdminTeamController.BanTeamFromDetails Method","Bane uma equipa da pagina de details."];

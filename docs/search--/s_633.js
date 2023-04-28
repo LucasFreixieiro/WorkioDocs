@@ -1,1 +1,1 @@
-search_result['633']=["topic_000000000000016C.html","Event.LatitudeText Property","Latitude em texto usada na view"];
+search_result['633']=["topic_00000000000000DB.html","CurrentDateAttribute.IsValid Method",""];

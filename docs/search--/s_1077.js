@@ -1,1 +1,1 @@
-search_result['1077']=["topic_0000000000000283.html","IUserService Interface","Interface para o serviço dos utilizadores"];
+search_result['1077']=["topic_000000000000018D.html","MatchmakingController.NearEventsList Method","Obtem uma lista de eventos próximos relativamente a uma posição e até uma distância máxima."];

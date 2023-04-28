@@ -1,1 +1,1 @@
-c['645']=[['646',"CommonResources Class","topic_0000000000000228.html",0]];
+c['645']=[['646',"JoinConversation Method","topic_000000000000021B.html",0],['647',"LeaveTeam Method","topic_000000000000021C.html",0],['648',"OnConnectedAsync Method","topic_0000000000000219.html",0],['649',"SendMessage Method","topic_000000000000021A.html",0]];

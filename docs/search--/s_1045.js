@@ -1,1 +1,1 @@
-search_result['1045']=["topic_000000000000026D.html","IEventsService.GetNumberOfDownvotes Method","Obtem o numero de downvotes de um evento"];
+search_result['1045']=["topic_0000000000000181.html","EventEnrollmentsController.CancelTeamEnrollment Method","Metodo utilizado para desinscrever uma equipa no evento"];

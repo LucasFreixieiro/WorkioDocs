@@ -1,1 +1,1 @@
-search_result['1294']=["topic_0000000000000316_vars--.html","ScriptTagHelper Fields",""];
+search_result['1294']=["topic_00000000000001E6.html","UserController.RemoveConnection Method","Ação para remover uma conexão de um utilizador"];

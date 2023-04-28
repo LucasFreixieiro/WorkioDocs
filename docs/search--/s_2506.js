@@ -1,0 +1,1 @@
+search_result['2506']=["topic_0000000000000451.html","IChatService.ExistChatBetweenTwoUsers Method","Verifica se existe algum chat entre 2 utilizadores, que não seja um chat de equipa."];

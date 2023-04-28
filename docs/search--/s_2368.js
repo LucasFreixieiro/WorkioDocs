@@ -1,0 +1,1 @@
+search_result['2368']=["topic_00000000000003F3.html","ILogsService.GetAdministrationActionLogByLogId Method","Obtem e retorna um log especifico referente ao AdministrationActionLog através do Id recebido."];

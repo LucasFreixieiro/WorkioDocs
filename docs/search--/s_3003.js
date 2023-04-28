@@ -1,0 +1,1 @@
+search_result['3003']=["topic_00000000000005BD.html","RatingService Class","Implementação da interface IRatingService"];

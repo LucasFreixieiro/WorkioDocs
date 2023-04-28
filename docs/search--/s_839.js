@@ -1,1 +1,1 @@
-search_result['839']=["topic_00000000000001DF.html","ReportUser.ReportedId Property",""];
+search_result['839']=["topic_000000000000011F.html","ChatController.NewChatSearch Method","Procura por uma conexão ou equipa."];

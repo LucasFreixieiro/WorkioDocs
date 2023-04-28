@@ -1,0 +1,1 @@
+search_result['1780']=["topic_00000000000002BE.html","Event Class","Contem as propriedades de um evento"];

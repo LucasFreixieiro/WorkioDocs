@@ -1,0 +1,1 @@
+c['852']=[['853',"Comment Property","topic_0000000000000352.html",0],['854',"RaterId Property","topic_0000000000000351.html",0],['855',"Rating Property","topic_0000000000000350.html",0],['856',"RatingId Property","topic_000000000000034E.html",0],['857',"ReceiverId Property","topic_000000000000034F.html",0]];

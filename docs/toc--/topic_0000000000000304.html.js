@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['647',"Workio.Services Namespace","topic_00000000000002F3.html"],['658',"RatingService Class","topic_00000000000002FC.html"],['660',"Methods","topic_00000000000002FC_methods--.html"],['663',"GetNumberOfRatings Method","topic_0000000000000304.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['752',"Workio.Models Namespace","topic_00000000000002FC.html"],['761',"Connection Class","topic_0000000000000304.html"]];

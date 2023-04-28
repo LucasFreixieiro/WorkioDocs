@@ -1,0 +1,1 @@
+search_result['2455']=["topic_000000000000042C.html","ChatService Class","Implementação do serviço do chat.\r\nLigação a uma BD de forma a guardar os dados.\r\nEste serviço dá informação acerca de chat rooms, como mensagens entre"];

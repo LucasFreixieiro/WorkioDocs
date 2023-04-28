@@ -1,0 +1,1 @@
+search_result['1805']=["topic_00000000000002D2.html","Event.LongitudeText Property","Longitude em texto utilizada na view"];

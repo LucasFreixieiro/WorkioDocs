@@ -1,0 +1,1 @@
+search_result['2397']=["topic_0000000000000406.html","AdminTeamService.GetTeams Method","Obtem todas as equipas."];

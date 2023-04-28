@@ -1,1 +1,1 @@
-search_result['954']=["topic_000000000000022B.html","ConnectionService Constructor","Class constructor"];
+search_result['954']=["topic_0000000000000152.html","AdminEntitiesController.GetRequestAll Method","Retorna um json com a listagem de logs de pedidos relativamente à página solicitada."];

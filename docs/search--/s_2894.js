@@ -1,0 +1,1 @@
+search_result['2894']=["topic_0000000000000564.html","SearchService.GetTeamsByNameIgnoreAccentuatedCharacters Method","Obtem todas as equipas com um determinado nome ignorando caracteres pontuados."];

@@ -1,1 +1,1 @@
-search_result['1037']=["topic_0000000000000265.html","IEventsService.AddInterestedUser Method","Adiciona à base de dados que o utilizador logado está interessado no evento que se encontra"];
+search_result['1037']=["topic_000000000000017F_overloads--.html","EventEnrollmentsController.TeamEnrollment Method","Metodo utilizado para reedirecionar para a página onde a equipa se inscreve"];

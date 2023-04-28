@@ -1,1 +1,1 @@
-search_result['1033']=["topic_0000000000000261.html","IEventsService.GetEvents Method","Retorn todos os eventos na base de dados"];
+search_result['1033']=["topic_000000000000017C.html","EventEnrollmentsController Constructor","Construtor da classe\r\n\u003cparam name=\"toastNotification\"\u003eObjeto do tipo ToastNotification para as notificações das ações realizadas\u003c/param\u003e\r\n\u003cparam name=\"eventsService\"\u003eServiço para intereações com a bas..."];

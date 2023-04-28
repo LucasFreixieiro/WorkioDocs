@@ -1,0 +1,1 @@
+search_result['2978']=["topic_00000000000005AE.html","TeamsService.AreTeammates Method","Verifica se dois utilizadores pertencem a mesma equipa"];

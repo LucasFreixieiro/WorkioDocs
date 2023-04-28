@@ -1,0 +1,1 @@
+search_result['2545']=["topic_000000000000046E.html","IConnectionService.GetConnectionBetweenUsers Method","Obtem a conexão entre 2 utilizadores"];

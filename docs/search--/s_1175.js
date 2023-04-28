@@ -1,1 +1,1 @@
-search_result['1175']=["topic_00000000000002BD.html","ITeamsService.UpdateTeam Method","Atualiza os dados de uma equipa"];
+search_result['1175']=["topic_00000000000001AF_vars--.html","TeamsController Fields",""];

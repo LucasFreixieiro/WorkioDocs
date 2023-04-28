@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['593',"Workio.Models.Events Namespace","topic_000000000000015A.html"],['620',"EventReactions Class","topic_0000000000000178.html"],['621',"Properties","topic_0000000000000178_props--.html"],['622',"EventId Property","topic_000000000000017B.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['307',"Workio.Controllers Namespace","topic_000000000000013D.html"],['375',"EventEnrollmentsController Class","topic_000000000000017B.html"]];

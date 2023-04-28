@@ -1,0 +1,1 @@
+search_result['2355']=["topic_00000000000003E6.html","ILogsService.CreateUserActionLog Method","Insere um log relativamente a uma ação aplicada a um utilizador na base de dados."];

@@ -1,1 +1,1 @@
-search_result['771']=["topic_00000000000001BC.html","Milestone.Name Property",""];
+search_result['771']=["topic_0000000000000102.html","AdminEventController.UnbanEventFromDetails Method","Remove o ban de um evento da pagina de details."];

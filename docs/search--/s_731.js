@@ -1,1 +1,1 @@
-search_result['731']=["topic_00000000000001A8.html","ExperienceModel.ExperienceUserId Property",""];
+search_result['731']=["topic_00000000000000F4.html","LogsController.AdministrationActionLogDetails Method","Recebe o id de um log de admnistração e retorna uma view com as informações\r\ndo log."];

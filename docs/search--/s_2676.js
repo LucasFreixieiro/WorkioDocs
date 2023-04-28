@@ -1,0 +1,1 @@
+search_result['2676']=["topic_00000000000004D3.html","IRatingService.GetRatingByRatingUserId Method","Obtem o rating atribuído a um utilizador por outro"];

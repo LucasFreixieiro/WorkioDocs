@@ -1,0 +1,1 @@
+c['1124']=[['1125',"Get Method","topic_00000000000005BB.html",0],['1126',"GetLocalizedString Method","topic_00000000000005BC.html",0]];

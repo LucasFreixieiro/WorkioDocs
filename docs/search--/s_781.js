@@ -1,1 +1,1 @@
-search_result['781']=["topic_00000000000001C7_attached_props--.html","Position Attached Properties",""];
+search_result['781']=["topic_0000000000000107.html","AdminEventController.GetBannedEventData Method","Obtem e trabalha todas os eventos que foram banidos para serem usadas na tabela."];

@@ -1,0 +1,1 @@
+search_result['2898']=["topic_0000000000000568.html","ITeamsService Interface","Representa a interação com a base de dados relativamente as equipas."];

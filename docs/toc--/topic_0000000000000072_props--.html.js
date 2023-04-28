@@ -1,1 +1,0 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['18',"Workio.Areas.Identity.Pages.Account Namespace","topic_0000000000000053.html"],['52',"LoginModel Class","topic_000000000000006C.html"],['53',"InputModel Class","topic_0000000000000072.html"],['54',"Properties","topic_0000000000000072_props--.html"]];

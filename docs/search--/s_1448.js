@@ -1,1 +1,1 @@
-search_result['1448']=["topic_000000000000036A.html","TeamsControllerTests.TeamsController_Delete_ReturnsSuccess Method",""];
+search_result['1448']=["topic_0000000000000230.html","NotificationManager.SendNewConnectionNotification Method","Envia uma notificação para o utilizador que recebe um novo pedido de conexão"];

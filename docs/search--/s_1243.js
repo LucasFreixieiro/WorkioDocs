@@ -1,1 +1,1 @@
-search_result['1243']=["topic_00000000000002F7.html","BlockService.AddBlock Method",""];
+search_result['1243']=["topic_00000000000001D1.html","UserController Constructor","Constructor da classe."];

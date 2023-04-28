@@ -1,0 +1,1 @@
+search_result['2325']=["topic_00000000000003D7.html","AdminEventService Class","Representa a implementação da interface IAdminEventService com a lógica para obter os dados relevantes a eventos\r\nna base de dados."];

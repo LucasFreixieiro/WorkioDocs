@@ -1,1 +1,1 @@
-search_result['1178']=["topic_00000000000002C0.html","ITeamsService.RemoveUser Method","Remove um user da equipa"];
+search_result['1178']=["topic_00000000000001B2.html","TeamsController.SendMessage Method","Redireciona o utilizador para o chat e mostra a conversa da equipa"];

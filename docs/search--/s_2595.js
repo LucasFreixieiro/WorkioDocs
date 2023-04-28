@@ -1,0 +1,1 @@
+search_result['2595']=["topic_0000000000000491.html","EventService.AddInterestedUser Method","Adiciona à base de dados que o utilizador logado está interessado no evento que se encontra"];

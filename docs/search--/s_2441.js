@@ -1,0 +1,1 @@
+search_result['2441']=["topic_0000000000000423.html","IAdminService.GetUserReports Method","Obtem uma lista de reports que foram feitos contra o utilizador"];

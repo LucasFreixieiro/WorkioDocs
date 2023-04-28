@@ -1,0 +1,1 @@
+search_result['1669']=["topic_000000000000028B.html","TeamActionLogType Enumeration","Representa a representação de possíbilidade de tipo de ação de log\r\nque foi atribúido."];

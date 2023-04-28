@@ -1,0 +1,1 @@
+search_result['1778']=["topic_00000000000002BC.html","ITeamsService.CreateTeam Method","Cria uma equipa e guarda na base de dados"];

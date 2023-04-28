@@ -1,1 +1,1 @@
-c['287']=[['288',"Properties","topic_00000000000000EB_props--.html",1]];
+c['287']=[['288',"OnGetAsync Method","topic_0000000000000078.html",0],['289',"OnPostAsync Method","topic_0000000000000079.html",0]];

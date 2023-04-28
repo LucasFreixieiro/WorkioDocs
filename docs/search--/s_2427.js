@@ -1,0 +1,1 @@
+search_result['2427']=["topic_000000000000041A.html","AdminService.GetUserEventsReports Method","Obtem uma lista de reports que foram feitos contra os eventos que o utilizador criou"];

@@ -1,0 +1,1 @@
+search_result['2980']=["topic_00000000000005B0.html","TeamsService.GetAverageRating Method","Dá o valor médio das avaliações dos utilizadores da equipa"];

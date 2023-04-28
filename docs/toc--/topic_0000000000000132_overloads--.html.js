@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['576',"Workio.Controllers.Events Namespace","topic_000000000000012B.html"],['577',"EventsController Class","topic_000000000000012C.html"],['579',"Methods","topic_000000000000012C_methods--.html"],['587',"Edit Method","topic_0000000000000132_overloads--.html"]];

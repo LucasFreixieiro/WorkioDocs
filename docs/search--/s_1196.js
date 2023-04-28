@@ -1,1 +1,1 @@
-search_result['1196']=["topic_00000000000002D2.html","ITeamsService.GiveOwnership Method","Dá ownership a um user da equipa"];
+search_result['1196']=["topic_00000000000001BA.html","TeamsController.AskAccess Method","Executa um pedido de adesão a uma equipa por um utilizador."];

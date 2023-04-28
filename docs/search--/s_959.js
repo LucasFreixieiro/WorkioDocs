@@ -1,1 +1,1 @@
-search_result['959']=["topic_0000000000000230.html","ConnectionService.GetUserConnectionsAsync Method","Obtem todas as conexões aceites de um utilizador"];
+search_result['959']=["topic_0000000000000152_vars--.html","Initial3 Fields",""];

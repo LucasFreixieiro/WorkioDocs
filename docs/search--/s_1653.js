@@ -1,0 +1,1 @@
+search_result['1653']=["topic_0000000000000285.html","SystemLog Class","Representa um log de um evento que possa acontecer e que não tenha sido necessáriamente desencadeado por um utilizador ou referente a um outro."];

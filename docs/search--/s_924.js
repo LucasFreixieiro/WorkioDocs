@@ -1,1 +1,1 @@
-search_result['924']=["topic_000000000000021A_events--.html","User Events",""];
+search_result['924']=["topic_0000000000000143.html","AdminController.BanUser Method",""];

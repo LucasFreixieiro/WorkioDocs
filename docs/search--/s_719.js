@@ -1,1 +1,1 @@
-search_result['719']=["topic_00000000000001A3_methods--.html","ErrorViewModel Methods",""];
+search_result['719']=["topic_00000000000000F0.html","LogsController.Index Method","Retorna a página principal da listagem de logs."];

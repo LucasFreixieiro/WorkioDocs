@@ -1,1 +1,1 @@
-search_result['961']=["topic_0000000000000232.html","IConnectionService Interface",""];
+search_result['961']=["topic_0000000000000154.html","AdminEntitiesController.GetRequestPending Method","Retorna um json com a listagem de logs de pedidos pendentes relativamente à página solicitada."];

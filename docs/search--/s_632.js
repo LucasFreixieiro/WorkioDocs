@@ -1,1 +1,1 @@
-search_result['632']=["topic_000000000000016B.html","Event.Latitude Property","Latitude da localização do evento fisíco"];
+search_result['632']=["topic_00000000000000DA.html","CurrentDateAttribute Constructor",""];

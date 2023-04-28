@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['18',"Workio.Areas.Identity.Pages.Account Namespace","topic_0000000000000053.html"],['19',"ConfirmEmailChangeModel Class","topic_0000000000000058.html"],['20',"ConfirmEmailChangeModel Constructor","topic_0000000000000059.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['137',"Workio.Areas.Identity.Pages.Account.Manage Namespace","topic_0000000000000000.html"],['247',"PrivacyModel Class","topic_0000000000000059.html"]];

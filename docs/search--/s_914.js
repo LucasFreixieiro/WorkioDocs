@@ -1,1 +1,1 @@
-search_result['914']=["topic_000000000000020F.html","TeamInviteUser.UserId Property",""];
+search_result['914']=["topic_000000000000013E.html","AdminController Class","Controlador que dá handle dos pedidos da administração para gerir os utilizadores"];

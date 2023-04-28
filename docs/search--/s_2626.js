@@ -1,0 +1,1 @@
+search_result['2626']=["topic_00000000000004AB.html","IEventsService.GetSoonEvents Method","Obtem uma lista de eventos que vão ocorrer nos próximos dias"];

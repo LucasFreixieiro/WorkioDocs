@@ -1,0 +1,1 @@
+search_result['2478']=["topic_000000000000043C.html","ChatService.ExistChatForTeam Method","Verifica se existe algum chat para 1 equipa."];

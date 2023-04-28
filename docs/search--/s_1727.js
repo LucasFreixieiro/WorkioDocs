@@ -1,0 +1,1 @@
+search_result['1727']=["topic_00000000000002A7.html","ChatMessage.Readers Property","Coleção com os utilizadores que leram a mensagem e a hora que a leram"];

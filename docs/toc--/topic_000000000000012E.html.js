@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['376',"Workio.Data Namespace","topic_000000000000012E.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['576',"Workio.Controllers.Events Namespace","topic_000000000000012B.html"],['577',"EventsController Class","topic_000000000000012C.html"],['579',"Methods","topic_000000000000012C_methods--.html"],['592',"Index Method","topic_000000000000012E.html"]];

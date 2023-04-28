@@ -1,0 +1,1 @@
+search_result['2437']=["topic_000000000000041F.html","IAdminService.GetRequestById Method","Obtem um pedido de entidade registada pelo seu id"];

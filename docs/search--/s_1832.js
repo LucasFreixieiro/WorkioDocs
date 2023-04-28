@@ -1,0 +1,1 @@
+search_result['1832']=["topic_00000000000002E3.html","TeamsService.AcceptInvite Method","Aceita o pedido de uma equipa e adiciona-o a equipa"];

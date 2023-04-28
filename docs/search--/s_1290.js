@@ -1,1 +1,1 @@
-search_result['1290']=["topic_0000000000000316_attached_props--.html","ScriptTagHelper Attached Properties",""];
+search_result['1290']=["topic_00000000000001E2.html","UserController.AcceptConnection Method","Ação para aceitar uma conexão de um utilizador"];

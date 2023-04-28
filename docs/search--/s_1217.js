@@ -1,1 +1,1 @@
-search_result['1217']=["topic_00000000000002E2.html","TeamsService.InviteUserToTeam Method","Convida um utilizador a participar na equipa"];
+search_result['1217']=["topic_00000000000001C6.html","TeamsController.DeleteConfirmed Method","Apaga uma equipa."];

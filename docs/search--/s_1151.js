@@ -1,1 +1,1 @@
-search_result['1151']=["topic_00000000000002AF.html","ISearchService.GetEventsByName Method","Obtem todas os eventos com um determinado nome"];
+search_result['1151']=["topic_00000000000001A8.html","RequestEntityStatusController.Edit (Guid) Method","Ação que permite editar um pedido\r\n\u003cparam name=\"id\"\u003eId do pedido\u003c/param\u003e"];

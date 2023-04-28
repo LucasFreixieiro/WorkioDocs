@@ -1,1 +1,1 @@
-c['368']=[['369',"IBlockService Interface","topic_000000000000011C.html",1],['373',"IUserService Interface","topic_000000000000011F.html",1]];
+c['368']=[['369',"BlockedUsersController Constructor","topic_0000000000000176.html",0],['370',"Methods","topic_0000000000000175_methods--.html",1]];

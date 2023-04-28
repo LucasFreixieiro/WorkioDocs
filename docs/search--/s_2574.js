@@ -1,0 +1,1 @@
+search_result['2574']=["topic_0000000000000481.html","EmailService.SendNewMemberTeamRequestEmail Method","Envia um email ao proprietário de um equipa quando recebe uma nova solicitação de adesão."];

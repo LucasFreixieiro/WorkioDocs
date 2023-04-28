@@ -1,1 +1,1 @@
-search_result['631']=["topic_000000000000016A.html","Event.IsInPerson Property","Indica se o evento ocorre num local fisíco"];
+search_result['631']=["topic_00000000000000D9_vars--.html","CurrentDateAttribute Fields",""];

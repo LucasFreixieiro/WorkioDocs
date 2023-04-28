@@ -1,0 +1,1 @@
+search_result['2646']=["topic_00000000000004BF.html","IEventsService.GetEventsBetweenDates Method","Retorna uma coleção de eventos em que a data de inicío dos eventos está no intrevalo recebido."];

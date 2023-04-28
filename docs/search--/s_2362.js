@@ -1,0 +1,1 @@
+search_result['2362']=["topic_00000000000003ED.html","ILogsService.GetTeamActionLogDataFiltered Method","Retorna todos os logs relativamente à TeamActionLog aplicando um filtro de pesquisa que se for null\r\napenas é ignorado e retorna todos os dados."];

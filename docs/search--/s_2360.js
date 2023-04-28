@@ -1,0 +1,1 @@
+search_result['2360']=["topic_00000000000003EB.html","ILogsService.GetUserActionLogData Method","Retorna todos os dados relativamente a logs de UserAction"];

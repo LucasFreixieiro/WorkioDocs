@@ -1,1 +1,1 @@
-search_result['1036']=["topic_0000000000000264.html","IEventsService.RemoveEvent Method","Apaga um evento"];
+search_result['1036']=["topic_000000000000017F.html","EventEnrollmentsController.TeamEnrollment (Guid) Method","Metodo utilizado para reedirecionar para a página onde a equipa se inscreve"];

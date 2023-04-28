@@ -1,1 +1,1 @@
-search_result['1092']=["topic_000000000000028D.html","IUserService.AddEndorsement Method",""];
+search_result['1092']=["topic_0000000000000192.html","NotificationsController.GetNotifications Method","Obtem as notificações do utilizador logado"];

@@ -1,1 +1,1 @@
-search_result['1019']=["topic_0000000000000258.html","EventService.GetNumberOfUpvotes Method","Obtem o numero de downvotes de um evento"];
+search_result['1019']=["topic_0000000000000178.html","BlockedUsersController.BlockedUsers Method","Ação para listar os utilizadores bloqueados por um utilizador"];

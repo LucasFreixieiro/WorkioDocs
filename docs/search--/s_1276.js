@@ -1,1 +1,1 @@
-search_result['1276']=["topic_0000000000000309.html","UserService.GetUserSkills Method","Obtem as habilidades e as recomendações dadas para cada habilidade para um utilizador com um determinado Id"];
+search_result['1276']=["topic_00000000000001DE.html","UserController.OpenEditExperience Method",""];

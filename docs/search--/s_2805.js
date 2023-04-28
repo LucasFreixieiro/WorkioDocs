@@ -1,0 +1,1 @@
+search_result['2805']=["topic_0000000000000524.html","IReportReasonService.AcceptTeamReport Method","Metodo para rejeitar uma denuncia de equipa"];

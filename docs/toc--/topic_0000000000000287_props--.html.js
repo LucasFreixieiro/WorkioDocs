@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['978',"Workio.Models.Admin.Logs Namespace","topic_000000000000026E.html"],['999',"TeamActionLog Class","topic_0000000000000287.html"],['1000',"Properties","topic_0000000000000287_props--.html"]];

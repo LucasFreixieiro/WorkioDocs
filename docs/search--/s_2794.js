@@ -1,0 +1,1 @@
+search_result['2794']=["topic_0000000000000519.html","IReportReasonService.GetTeamReport Method","Obtem um report de equipa a partir de um certo id"];

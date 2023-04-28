@@ -1,1 +1,1 @@
-c['108']=[['109',"ExternalLoginsModel Constructor","topic_0000000000000015.html",0],['110',"Properties","topic_0000000000000014_props--.html",1],['115',"Methods","topic_0000000000000014_methods--.html",1]];
+c['108']=[['109',"OnGetAsync Method","topic_00000000000000B9.html",0],['110',"OnPostAsync Method","topic_00000000000000BA.html",0]];

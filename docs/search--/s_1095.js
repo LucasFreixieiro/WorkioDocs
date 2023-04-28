@@ -1,1 +1,1 @@
-search_result['1095']=["topic_0000000000000290.html","IUserService.IsBlockedByUser Method","Verifica se o utilizador com sessão iniciada está bloqueado por outro"];
+search_result['1095']=["topic_0000000000000195.html","RatingModelsController Class","Controlador que dá handle dos Ratings"];

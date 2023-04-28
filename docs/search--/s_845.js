@@ -1,1 +1,1 @@
-search_result['845']=["topic_00000000000001E0_vars--.html","RequestEntityStatus Fields",""];
+search_result['845']=["topic_0000000000000120.html","ChatController.ReadMessages Method","Marca todas as mensagens como lidas pelo utilizador atual"];

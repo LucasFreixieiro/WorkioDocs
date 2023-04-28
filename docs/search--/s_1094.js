@@ -1,1 +1,1 @@
-search_result['1094']=["topic_000000000000028F.html","IUserService.GetUsersAsync Method",""];
+search_result['1094']=["topic_0000000000000194.html","NotificationsController.GetNotificationsCount Method","Obtem o número total de notificações por ler"];

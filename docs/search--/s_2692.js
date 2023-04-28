@@ -1,0 +1,1 @@
+search_result['2692']=["topic_00000000000004DE.html","IUserService.GetUserExperience Method","Obtem todas as experiências de um utilizador"];

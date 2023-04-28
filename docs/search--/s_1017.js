@@ -1,1 +1,1 @@
-search_result['1017']=["topic_0000000000000256.html","EventService.AlreadyUpvoted Method","Verifica se o utilizador já deu upvote"];
+search_result['1017']=["topic_0000000000000176.html","BlockedUsersController Constructor","Construtor da classe."];

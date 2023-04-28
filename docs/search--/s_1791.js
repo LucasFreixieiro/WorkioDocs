@@ -1,0 +1,1 @@
+search_result['1791']=["topic_00000000000002C4.html","Event.BannerPicturePathFile Property","Recebe o ficheiro que será a imagem a guardar"];

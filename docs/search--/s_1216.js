@@ -1,1 +1,1 @@
-search_result['1216']=["topic_00000000000002E1.html","TeamsService.LeaveTeam Method","Abandonar equipa"];
+search_result['1216']=["topic_00000000000001C5.html","TeamsController.Delete Method","Página para apaghar uma equipa."];

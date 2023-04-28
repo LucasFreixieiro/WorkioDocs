@@ -1,1 +1,1 @@
-search_result['1176']=["topic_00000000000002BE.html","ITeamsService.ChangeTeamStatus Method","Altera o estado da equipa"];
+search_result['1176']=["topic_00000000000001B0.html","TeamsController Constructor","Inicializa os serviços e componentes necessários. Recebe do DI."];

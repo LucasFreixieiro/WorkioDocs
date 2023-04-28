@@ -1,1 +1,1 @@
-search_result['960']=["topic_0000000000000231.html","ConnectionService.GetUserPendingConnectionsAsync Method","Obtem as conexões pedentes do utilizador"];
+search_result['960']=["topic_0000000000000153.html","AdminEntitiesController.GetRequestApproved Method","Retorna um json com a listagem de logs de pedidos aprovados relativamente à página solicitada."];

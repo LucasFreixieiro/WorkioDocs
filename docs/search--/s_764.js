@@ -1,1 +1,1 @@
-search_result['764']=["topic_00000000000001BA.html","Milestone Class",""];
+search_result['764']=["topic_0000000000000100.html","AdminEventController.BanEventFromDetails Method","Bane um evento da pagina de details."];

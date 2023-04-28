@@ -1,0 +1,1 @@
+search_result['2428']=["topic_000000000000041B.html","IAdminService Interface","Interface para interagir e guardar dados na base de dados relativamente aos pedidos de entidade registada"];

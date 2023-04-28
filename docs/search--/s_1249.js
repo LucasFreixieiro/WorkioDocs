@@ -1,1 +1,1 @@
-search_result['1249']=["topic_00000000000002F9_props--.html","CommonLocalizationService Properties",""];
+search_result['1249']=["topic_00000000000001D2.html","UserController.Index Method","Ação para aceitar uma conexão de um utilizador"];

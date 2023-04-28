@@ -1,0 +1,1 @@
+search_result['2495']=["topic_0000000000000448.html","IChatService.GetUserActiveChats (String) Method","Obtem todas as salas de conversas que estão na lista de ativas de um utilizador com mensagens"];

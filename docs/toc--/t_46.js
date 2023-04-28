@@ -1,1 +1,1 @@
-c['46']=[['47',"ForgotPasswordModel Constructor","topic_000000000000006A.html",0],['48',"Properties","topic_0000000000000068_props--.html",1],['50',"Methods","topic_0000000000000068_methods--.html",1]];
+c['46']=[['47',"Methods","topic_0000000000000093_methods--.html",1]];

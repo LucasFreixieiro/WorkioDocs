@@ -1,1 +1,1 @@
-search_result['1260']=["topic_00000000000002FE.html","RatingService.AddRating Method","Adiciona o rating a um utilizador"];
+search_result['1260']=["topic_00000000000001D8.html","UserController.AddExperience Method","Ação para adicionar uma experiência no perfil do utilizador"];

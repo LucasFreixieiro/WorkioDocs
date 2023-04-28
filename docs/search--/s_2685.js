@@ -1,0 +1,1 @@
+search_result['2685']=["topic_00000000000004D7.html","IUserService.GetUserProfile Method","Obtem os dados necessários relacionados com o perfil de um utilizador"];

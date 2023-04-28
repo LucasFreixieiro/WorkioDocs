@@ -1,0 +1,1 @@
+search_result['2647']=["topic_00000000000004C0.html","IEventsService.RefreshAllEventsState Method","Atualiza o estado de todos os eventos de acordo com a data de início, de fim e o seu estado atual."];

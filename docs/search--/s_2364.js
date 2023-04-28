@@ -1,0 +1,1 @@
+search_result['2364']=["topic_00000000000003EF.html","ILogsService.GetAdminActionLogDataFiltered Method","Retorna todos os logs relativamente às alterações de configurações na administração aplicando um filtro de pesquisa que se for null\r\napenas é ignorado e retorna todos os dados."];

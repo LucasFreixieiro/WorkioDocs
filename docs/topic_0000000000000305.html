@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>UserService Class</title>
+	<title>Connection.Id Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">UserService Class</h1>
+		<h1 class="title">Connection.Id Property</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000002F3.html">Workio.Services</a>
+<a href="topic_00000000000002FC.html">Workio.Models</a>
 
 
 
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Implementação da interface IUserService</summary-info>
+        <summary-info>Id da conexão</summary-info>
 
 
 
@@ -139,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Class UserService&nbsp;<br />    Implements <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;Key()&gt; _&nbsp;<br />Public Property Id() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public class UserService : <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a></pre>			
+					<pre xml:space="preserve" class="brush: csharp">[Key()]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> Id {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public ref class UserService  : public <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>^</pre>			
+					<pre xml:space="preserve" class="brush: cpp">[Key()]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> Id {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -257,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public class UserService&nbsp;<br />   implements <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a></pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   Key()&nbsp;<br />function get Id() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>;&nbsp;<br />public &nbsp;<br />   Key()&nbsp;<br />function set Id(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -269,6 +269,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 
+	<h4 class="subHeading">
+		Property Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> 
+	
+
 
 
 
@@ -284,526 +289,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	</div>
 </div>
-
-
-
-<div class="section_container">
-	<div class="section_heading">
-		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Constructors</a></span>
-		<div>&nbsp;</div>
-	</div>
-
-	<div id="ConstructorsSection" class="section">	
-  <table class="memberListTable">
-    <tr>
-      <th></th>
-      <th>
-        Name
-      </th>
-      <th>
-        Description
-      </th>
-    </tr>
-
-
-	
-			<tr class="
-	
-	
-	">
-	  <td>
-    <img alt="Public constructor" title="Public constructor" src="msdn2019/pubmethod.png"></img>
-
-	
-	    
-	  </td>
-	  <td>
-	    <a href="topic_0000000000000306.html">UserService(ApplicationDbContext, UserManager&lt;User&gt;, IHttpContextAccessor)</a>
-
-	  </td>
-	  <td>
-	
-	Construtor da classe
-	
-		</td>
-	</tr>
-	
-
-
-  </table>
-
-  <a href="#mainBody">
-    Top
-  </a>
-
-	</div>					
-</div>
-
-
-
-
-
-
-
-<div class="section_container">
-	<div class="section_heading">
-		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Methods</a></span>
-		<div>&nbsp;</div>
-	</div>
-
-	<div id="MethodsSection" class="section">	
-  <table class="memberListTable">
-    <tr>
-      <th></th>
-      <th>
-        Name
-      </th>
-      <th>
-        Description
-      </th>
-    </tr>
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_0000000000000311.html">AddEndorsement(Guid)</a>
-
-	</td>
-	<td>
-
-Recebe uma habilidade e atualiza o numero de recomendações da mesma após outro utilizador recomendar a habilidade
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_000000000000030E.html">AddExperience(ExperienceModel)</a>
-
-	</td>
-	<td>
-
-Recebe uma experiência e adiciona-a à base de dados
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_000000000000030A.html">AddSkill(Guid, SkillModel)</a>
-
-	</td>
-	<td>
-
-Recebe uma habilidade e adiciona-a à base de dados
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_0000000000000310.html">DeleteExperience(Guid)</a>
-
-	</td>
-	<td>
-
-
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_000000000000030C.html">DeleteSkill(Guid)</a>
-
-	</td>
-	<td>
-
-Recebe um id de uma skill e vai remove-la
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_000000000000030F.html">EditExperience(ExperienceModel)</a>
-
-	</td>
-	<td>
-
-Recebe uma experiência atualizada e atualiza-a na base de dados
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_000000000000030B.html">EditSkill(SkillModel)</a>
-
-	</td>
-	<td>
-
-Recebe uma skill e atualiza-se na base de dados
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_0000000000000308.html">GetUser(Guid)</a>
-
-	</td>
-	<td>
-
-Obtem um utilizador com um Id especifico.
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_000000000000030D.html">GetUserExperience(Guid)</a>
-
-	</td>
-	<td>
-
-Obtem as experiência de um utilizador com um determinado Id
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_0000000000000309.html">GetUserSkills(Guid)</a>
-
-	</td>
-	<td>
-
-Obtem as habilidades e as recomendações dadas para cada habilidade para um utilizador com um determinado Id
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_0000000000000307.html">GetUsersAsync()</a>
-
-	</td>
-	<td>
-
-
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_0000000000000314.html">IsAlreadyBlocked(Guid)</a>
-
-	</td>
-	<td>
-
-Verifica se o utilizador´com sessão iniciada já bloqueou o outro utilizador
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_0000000000000313.html">IsBlockedByUser(Guid)</a>
-
-	</td>
-	<td>
-
-Verifica se o utilizador com sessão iniciada está bloqueado por outro
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_0000000000000312.html">RemoveEndorsement(Guid)</a>
-
-	</td>
-	<td>
-
-Recebe uma habilidade e atualiza os endorsements da mesma, após outro utilizador retirar a recomendação dada anteriormente
-
-	</td>
-</tr>
-
-
-
-
-
-
-  </table>
-
-  <a href="#mainBody">
-    Top
-  </a>
-
-	</div>					
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-<!-- Classes -->
-
-<!-- Classes End -->
-
-<!-- Standard Modules -->
-
-<!-- Standard Modules End -->
-
-  
-
-
-
 
 
 
@@ -867,7 +352,6 @@ Recebe uma habilidade e atualiza os endorsements da mesma, após outro utilizado
 	</div>					
 </div>
 
-
 <div class="section_container">
 	<div class="section_heading">
 		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">See Also</a></span>
@@ -876,10 +360,14 @@ Recebe uma habilidade e atualiza os endorsements da mesma, após outro utilizado
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-	<a href="topic_00000000000002F3.html">Workio.Services Namespace</a><br />
+			<a href="topic_0000000000000304.html">Connection Class</a><br />
 
 
-	
+
+<a href="topic_00000000000002FC.html">Workio.Models Namespace</a><br />
+
+
+			
 
 		</div>
 	</div>					

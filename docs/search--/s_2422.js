@@ -1,0 +1,1 @@
+search_result['2422']=["topic_0000000000000415.html","AdminService.GetRequests Method","Obtem uma lista de de todos os pedidos de entidade registada"];

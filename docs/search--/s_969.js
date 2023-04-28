@@ -1,1 +1,1 @@
-search_result['969']=["topic_0000000000000235.html","IConnectionService.GetConnectionsAsync Method",""];
+search_result['969']=["topic_0000000000000157.html","AdminReportsController Constructor","Construtor da classe."];

@@ -1,0 +1,1 @@
+search_result['2500']=["topic_000000000000044B.html","IChatService.AddUserToChatRoom Method","Adiciona um utilizador a uma conversa"];

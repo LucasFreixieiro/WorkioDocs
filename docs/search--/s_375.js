@@ -1,1 +1,1 @@
-search_result['375']=["topic_00000000000000C7_events--.html","BlockedUsersController Events",""];
+search_result['375']=["topic_0000000000000087_methods--.html","BlockedUsersController Methods",""];

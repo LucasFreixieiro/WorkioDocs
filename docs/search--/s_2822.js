@@ -1,0 +1,1 @@
+search_result['2822']=["topic_0000000000000530.html","ReportReasonService.GetUserReports Method","Obtem todos os reports que foram feitos do tipo user"];

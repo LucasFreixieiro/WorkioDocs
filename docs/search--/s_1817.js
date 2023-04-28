@@ -1,0 +1,1 @@
+search_result['1817']=["topic_00000000000002D9.html","TeamsService.CreateTeam Method","Obtem todas as equipas na base de dados"];

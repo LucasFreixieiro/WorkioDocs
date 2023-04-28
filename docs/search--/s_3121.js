@@ -1,0 +1,1 @@
+search_result['3121']=["topic_000000000000060B.html","FeaturedBannersViewComponent Class","Componente dos banners featured que extende ViewComponent do .Net MVC"];

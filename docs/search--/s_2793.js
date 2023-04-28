@@ -1,0 +1,1 @@
+search_result['2793']=["topic_0000000000000518.html","IReportReasonService.GetUserReport Method","Obtem um report de utilizador a partir de um certo id"];

@@ -1,1 +1,1 @@
-search_result['1399']=["topic_0000000000000348.html","RatingsModelsControllerTests.RatingModelsController_Create_ReturnsSuccess Method",""];
+search_result['1399']=["topic_000000000000021D.html","NotificationHub Class","Hub para acomunicação server-client das notificações"];

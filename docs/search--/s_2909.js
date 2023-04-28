@@ -1,0 +1,1 @@
+search_result['2909']=["topic_000000000000056E.html","ITeamsService.GetOwnAllTeamsByUserId Method","Obtem as equipas de que um utilizador é o dono."];

@@ -1,0 +1,1 @@
+search_result['1803']=["topic_00000000000002D0.html","Event.LatitudeText Property","Latitude em texto usada na view"];

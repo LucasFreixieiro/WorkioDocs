@@ -1,1 +1,1 @@
-search_result['939']=["topic_0000000000000226.html","User.Events Property",""];
+search_result['939']=["topic_000000000000014D.html","AdminEntitiesController Class","Controlador que dá handle da página da administração para gerir os pedidos de entidade certificada"];

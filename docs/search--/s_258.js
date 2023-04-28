@@ -1,1 +1,1 @@
-search_result['258']=["topic_000000000000008F.html","ResetPasswordModel Class",""];
+search_result['258']=["topic_0000000000000060.html","InputModel.ReceiveIRLNotifications Property","Descreve se o utilizador recebe notificações IRL"];

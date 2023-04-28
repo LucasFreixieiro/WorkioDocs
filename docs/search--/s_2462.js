@@ -1,0 +1,1 @@
+search_result['2462']=["topic_000000000000042E.html","ChatService.GetChatRoomById Method","Obtem uma sala de conversa pelo Id da sala"];

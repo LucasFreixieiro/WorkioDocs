@@ -1,1 +1,1 @@
-search_result['815']=["topic_00000000000001D7_props--.html","ReportEvent Properties",""];
+search_result['815']=["topic_0000000000000116.html","AdminTeamController.GetTeamReports Method","Obtem e trabalha os reports de uma certa team"];

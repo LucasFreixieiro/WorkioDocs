@@ -1,1 +1,1 @@
-search_result['720']=["topic_00000000000001A3_props--.html","ErrorViewModel Properties",""];
+search_result['720']=["topic_00000000000000F1.html","LogsController.Details Method","Recebe o id de um log de utilizador e retorna uma view com as informações\r\ndo log."];

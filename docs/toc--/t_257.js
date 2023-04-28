@@ -1,1 +1,1 @@
-c['257']=[['258',"RatingModelsController Constructor","topic_00000000000000DC.html",0],['259',"Methods","topic_00000000000000DB_methods--.html",1]];
+c['257']=[['258',"OnGetAsync Method","topic_0000000000000061.html",0],['259',"OnPostAsync Method","topic_0000000000000062.html",0]];

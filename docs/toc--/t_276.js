@@ -1,1 +1,1 @@
-c['276']=[['277',"ReportTeam(ReportTeam, Guid) Method","topic_00000000000000EB.html",0],['278',"ReportTeam(Guid) Method","topic_00000000000000E8.html",0]];
+c['276']=[['277',"OnGetAsync Method","topic_000000000000006F.html",0],['278',"OnPostAsync Method","topic_0000000000000070.html",0]];

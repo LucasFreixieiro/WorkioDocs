@@ -1,1 +1,1 @@
-search_result['1432']=["topic_000000000000035A.html","TeamsControllerTests.TeamsController_OpenInscriptions_ReturnsSuccess Method",""];
+search_result['1432']=["topic_000000000000022A.html","INotificationManager Interface","Interface do gestor de notificações"];

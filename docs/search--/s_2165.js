@@ -1,0 +1,1 @@
+search_result['2165']=["topic_000000000000036D.html","ReportStatus Enumeration","Enumerado que representa o estado de uma denúncia."];

@@ -1,0 +1,1 @@
+search_result['2852']=["topic_0000000000000549.html","IRequestEntityStatusService.GetRequestStateByUserId Method","Permite o estado de um pedido por id do utilizador"];

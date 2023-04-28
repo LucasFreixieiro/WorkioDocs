@@ -1,1 +1,1 @@
-search_result['973']=["topic_0000000000000239.html","Workio.Services.Email.Interfaces Namespace",""];
+search_result['973']=["topic_000000000000015B.html","AdminReportsController.DetailsEvent Method","Metodo responsavel por mostrar a página de detalhes de uma denuncia de evento"];

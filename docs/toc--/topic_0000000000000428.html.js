@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['1253',"Workio.Services.BackgroundServices Namespace","topic_0000000000000426.html"],['1254',"PeriodicHostedService Class","topic_0000000000000427.html"],['1256',"Properties","topic_0000000000000427_props--.html"],['1257',"IsEnabled Property","topic_0000000000000428.html"]];

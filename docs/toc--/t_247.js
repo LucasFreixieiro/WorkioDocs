@@ -1,1 +1,1 @@
-c['247']=[['248',"TeamEnrollment(Team, Guid) Method","topic_00000000000000D2.html",0],['249',"TeamEnrollment(Guid) Method","topic_00000000000000D1.html",0]];
+c['247']=[['248',"InputModel Class","topic_000000000000005D.html",1],['253',"PrivacyModel Constructor","topic_000000000000005A.html",0],['254',"Properties","topic_0000000000000059_props--.html",1],['257',"Methods","topic_0000000000000059_methods--.html",1]];

@@ -1,0 +1,1 @@
+search_result['3015']=["topic_00000000000005C4.html","RatingService.GetTrueAverageRating Method","Obtem o valor médio das avaliações de um utilizador com valores decimais"];

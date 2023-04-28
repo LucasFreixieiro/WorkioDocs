@@ -1,1 +1,1 @@
-search_result['816']=["topic_00000000000001D7_vars--.html","ReportEvent Fields",""];
+search_result['816']=["topic_0000000000000117.html","AdminTeamController.GetTeamMemberReports Method","Obtem os membros e os reports de uma equipa para usar na tabela"];

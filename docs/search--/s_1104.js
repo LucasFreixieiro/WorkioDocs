@@ -1,1 +1,1 @@
-search_result['1104']=["topic_0000000000000294.html","ILocalizationService.GetLocalizations Method",""];
+search_result['1104']=["topic_0000000000000198.html","RatingModelsController.RateUser (Guid, RatingModel, String, Int32) Method","Ação para encaminhar para a página de avaliação"];

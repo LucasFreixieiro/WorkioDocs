@@ -1,0 +1,1 @@
+search_result['2602']=["topic_0000000000000498.html","EventService.Downvote Method","Verifica se o utilizador pode dar downvote"];

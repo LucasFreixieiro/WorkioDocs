@@ -1,0 +1,1 @@
+search_result['2434']=["topic_000000000000041C.html","IAdminService.GetRequestsAsync Method","Obtem uma lista de pedidos de entidade registadas"];

@@ -1,1 +1,1 @@
-search_result['191']=["topic_000000000000006A.html","ForgotPasswordModel Constructor",""];
+search_result['191']=["topic_000000000000004A.html","ManageNavPages.TwoFactorAuthentication Property","This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used\r\n    directly from your code. This API may change or be removed in future releases."];

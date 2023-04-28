@@ -1,1 +1,1 @@
-search_result['1211']=["topic_00000000000002DC.html","TeamsService.AddUser Method","Adiciona um user a equipa"];
+search_result['1211']=["topic_00000000000001C2_overloads--.html","TeamsController.Create Method","Cria uma equipa."];

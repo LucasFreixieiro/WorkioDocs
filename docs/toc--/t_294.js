@@ -1,1 +1,1 @@
-c['294']=[['295',"Properties","topic_00000000000000F1_props--.html",1]];
+c['294']=[['295',"CurrentDateAttribute Constructor","topic_00000000000000DA.html",0],['296',"Methods","topic_00000000000000D9_methods--.html",1]];

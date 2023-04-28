@@ -1,1 +1,1 @@
-c['134']=[['135',"InputModel Class","topic_0000000000000019.html",1],['138',"EmailModel Constructor","topic_0000000000000014.html",0],['139',"Properties","topic_0000000000000013_props--.html",1],['144',"Methods","topic_0000000000000013_methods--.html",1]];
+c['134']=[['135',"OnGet Method","topic_00000000000000D0.html",0],['136',"OnPostAsync Method","topic_00000000000000D1.html",0]];

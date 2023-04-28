@@ -1,1 +1,1 @@
-c['510']=[['511',"Date Property","topic_00000000000001D6.html",0],['512',"Description Property","topic_00000000000001D5.html",0],['513',"Id Property","topic_00000000000001D2.html",0],['514',"ReportReasonId Property","topic_00000000000001D4.html",0],['515',"ReporterId Property","topic_00000000000001D3.html",0]];
+c['510']=[['511',"AdminEventController Class","topic_00000000000000FA.html",1],['527',"AdminTeamController Class","topic_0000000000000109.html",1]];

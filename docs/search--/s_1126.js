@@ -1,1 +1,1 @@
-search_result['1126']=["topic_00000000000002A0.html","IReportReasonService.GetEventReports Method","Obtem todos os reports que foram feitos do tipo evento"];
+search_result['1126']=["topic_000000000000019F.html","ReportsController.ReportEvent (Guid) Method",""];

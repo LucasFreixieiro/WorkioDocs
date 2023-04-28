@@ -1,1 +1,1 @@
-search_result['1008']=["topic_000000000000024D.html","EventService.IsUserInterested Method","Verifica se o utilizador logado de momento ja mostrou interesse no evento que se encotra"];
+search_result['1008']=["topic_0000000000000172.html","AdminStatisticsController.InterestedUsersandTeams Method","Metodo a geração de uma datatable com o numero de utilizadores vs equipas interessados"];

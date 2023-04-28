@@ -1,1 +1,1 @@
-search_result['763']=["topic_00000000000001B9.html","Localization.IconName Property",""];
+search_result['763']=["topic_00000000000000FF.html","AdminEventController.BanEvent Method","Bane um evento."];

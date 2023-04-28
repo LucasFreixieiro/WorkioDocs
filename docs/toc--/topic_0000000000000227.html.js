@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['645',"Workio.Resources Namespace","topic_0000000000000227.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['651',"Workio.Managers.Connections Namespace","topic_000000000000021E.html"],['659',"IConnectionManager Interface","topic_0000000000000224.html"],['662',"Methods","topic_0000000000000224_methods--.html"],['664',"GetConnections Method","topic_0000000000000227.html"]];

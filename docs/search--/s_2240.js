@@ -1,0 +1,1 @@
+search_result['2240']=["topic_0000000000000395.html","Team.IsBanned Property",""];

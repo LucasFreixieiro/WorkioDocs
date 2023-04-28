@@ -1,1 +1,1 @@
-search_result['1383']=["topic_000000000000033D.html","EventsControllersTest.SetUp Method",""];
+search_result['1383']=["topic_0000000000000217.html","ChatHub Class","Hub para comunicação do chat em tempo-real"];

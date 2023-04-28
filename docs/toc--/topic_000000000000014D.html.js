@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['410',"Workio.Migrations Namespace","topic_000000000000014D.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['307',"Workio.Controllers Namespace","topic_000000000000013D.html"],['324',"AdminEntitiesController Class","topic_000000000000014D.html"]];

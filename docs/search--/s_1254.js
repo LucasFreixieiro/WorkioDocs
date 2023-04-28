@@ -1,1 +1,1 @@
-search_result['1254']=["topic_00000000000002FC_attached_props--.html","RatingService Attached Properties",""];
+search_result['1254']=["topic_00000000000001D7.html","UserController.AllSkills Method","Ação para listar todas as habilidades"];

@@ -1,0 +1,1 @@
+search_result['1913']=["topic_0000000000000307.html","Connection.RequestedUserId Property","Id do utilizador que recebeu o pedido de conexão"];

@@ -1,1 +1,1 @@
-search_result['1128']=["topic_00000000000002A1_attached_props--.html","ReportReasonService Attached Properties",""];
+search_result['1128']=["topic_00000000000001A0.html","ReportsController.ReportEvent (ReportEvent, Guid) Method","Ação \"POST\" da denuncia de equipas."];

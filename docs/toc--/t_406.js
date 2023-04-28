@@ -1,1 +1,1 @@
-c['406']=[['407',"SeedData Constructor","topic_000000000000014B.html",0],['408',"Methods","topic_000000000000014A_methods--.html",1]];
+c['406']=[['407',"RatingModelsController Constructor","topic_0000000000000196.html",0],['408',"Methods","topic_0000000000000195_methods--.html",1]];

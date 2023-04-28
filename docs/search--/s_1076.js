@@ -1,1 +1,1 @@
-search_result['1076']=["topic_0000000000000282.html","IRatingService.GetNumberOfRatings Method",""];
+search_result['1076']=["topic_000000000000018C.html","MatchmakingController.EventsNear Method","Retorna uma página para a procura de eventos por perto."];

@@ -1,1 +1,1 @@
-search_result['537']=["topic_000000000000012A.html","UserController.Connections Method","Ação para listar as conexões de um utilizador"];
+search_result['537']=["topic_00000000000000BE.html","RegisterConfirmationModel.DisplayConfirmAccountLink Property","This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used\r\n    directly from your code. This API may change or be removed in future releases."];

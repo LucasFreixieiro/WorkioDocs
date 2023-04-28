@@ -1,0 +1,1 @@
+search_result['2694']=["topic_00000000000004E0.html","IUserService.EditExperience Method","Recebe uma experiência atualizada e atualiza-a na base de dados"];

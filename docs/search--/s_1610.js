@@ -1,0 +1,1 @@
+search_result['1610']=["topic_0000000000000273.html","AdministrationActionLog Class","Representa o log das ações da administração que não influenciam uma segunda entidade.\r\nAo seja apenas tem quem realizou a ação mas não há uma 2ª entidade que possa ser referenciada.\r\n(Ex. Alterar uma ..."];

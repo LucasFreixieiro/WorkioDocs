@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>InterestedTeam.Team Property</title>
+	<title>TeamsController Constructor</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">InterestedTeam.Team Property</h1>
+		<h1 class="title">TeamsController Constructor</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_000000000000018D.html">Workio.Models</a>
+<a href="topic_000000000000013D.html">Workio.Controllers</a>
 
 
 
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Objeto correspondente ao utilizador que mostrou interesse</summary-info>
+        <summary-info>Inicializa os serviços e componentes necessários. Recebe do DI.</summary-info>
 
 
 
@@ -139,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Property Team() As <a target="_top" href="topic_00000000000001EF.html" onclick="this.target='';return true;">Team</a></pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>userManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>(Of <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>signInManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>(Of <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>teamsService</i> As <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a>, _&nbsp;<br />   ByVal <i>toastNotification</i> As <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>, _&nbsp;<br />   ByVal <i>localizationService</i> As <a target="_top" href="topic_00000000000004EA.html" onclick="this.target='';return true;">ILocalizationService</a>, _&nbsp;<br />   ByVal <i>reportReasonService</i> As <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a>, _&nbsp;<br />   ByVal <i>searchService</i> As <a target="_top" href="topic_0000000000000556.html" onclick="this.target='';return true;">ISearchService</a>, _&nbsp;<br />   ByVal <i>userService</i> As <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a>, _&nbsp;<br />   ByVal <i>matchmakingService</i> As <a target="_top" href="topic_00000000000004F0.html" onclick="this.target='';return true;">IMatchmakingService</a>, _&nbsp;<br />   ByVal <i>emailService</i> As <a target="_top" href="topic_0000000000000470.html" onclick="this.target='';return true;">IEmailService</a>, _&nbsp;<br />   ByVal <i>chatService</i> As <a target="_top" href="topic_0000000000000443.html" onclick="this.target='';return true;">IChatService</a>, _&nbsp;<br />   ByVal <i>notificationManager</i> As <a target="_top" href="topic_000000000000022A.html" onclick="this.target='';return true;">INotificationManager</a>, _&nbsp;<br />   ByVal <i>commonLocalizationService</i> As <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> _&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="topic_00000000000001EF.html" onclick="this.target='';return true;">Team</a> Team {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public TeamsController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; <i>userManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; <i>signInManager</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a> <i>teamsService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004EA.html" onclick="this.target='';return true;">ILocalizationService</a> <i>localizationService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a> <i>reportReasonService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000556.html" onclick="this.target='';return true;">ISearchService</a> <i>searchService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a> <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004F0.html" onclick="this.target='';return true;">IMatchmakingService</a> <i>matchmakingService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000470.html" onclick="this.target='';return true;">IEmailService</a> <i>emailService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000443.html" onclick="this.target='';return true;">IChatService</a> <i>chatService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000022A.html" onclick="this.target='';return true;">INotificationManager</a> <i>notificationManager</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> <i>commonLocalizationService</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />property <a target="_top" href="topic_00000000000001EF.html" onclick="this.target='';return true;">Team</a>^ Team {&nbsp;<br /> <a target="_top" href="topic_00000000000001EF.html" onclick="this.target='';return true;">Team</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="topic_00000000000001EF.html" onclick="this.target='';return true;">Team</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />TeamsController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>userManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>signInManager</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a>^ <i>teamsService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>^ <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004EA.html" onclick="this.target='';return true;">ILocalizationService</a>^ <i>localizationService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a>^ <i>reportReasonService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000556.html" onclick="this.target='';return true;">ISearchService</a>^ <i>searchService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a>^ <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004F0.html" onclick="this.target='';return true;">IMatchmakingService</a>^ <i>matchmakingService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000470.html" onclick="this.target='';return true;">IEmailService</a>^ <i>emailService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000443.html" onclick="this.target='';return true;">IChatService</a>^ <i>chatService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000022A.html" onclick="this.target='';return true;">INotificationManager</a>^ <i>notificationManager</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a>^ <i>commonLocalizationService</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -257,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function get Team() : <a target="_top" href="topic_00000000000001EF.html" onclick="this.target='';return true;">Team</a>;&nbsp;<br />public function set Team(value : <a target="_top" href="topic_00000000000001EF.html" onclick="this.target='';return true;">Team</a>);</pre>			
+					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,11 +268,179 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="userManager" class="parameterList">
+	<dt>
+		<span class="parameter">
+			userManager
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; 
+	</dd>
+</dl>
+<p>
+	Gestão de utilizadors. 
+</p>
+<dl paramName="signInManager" class="parameterList">
+	<dt>
+		<span class="parameter">
+			signInManager
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; 
+	</dd>
+</dl>
+<p>
+	Gestor de login. 
+</p>
+<dl paramName="teamsService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			teamsService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a> 
+	</dd>
+</dl>
+<p>
+	Serviço de equipas. 
+</p>
+<dl paramName="toastNotification" class="parameterList">
+	<dt>
+		<span class="parameter">
+			toastNotification
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> 
+	</dd>
+</dl>
+<p>
+	Serviço de mostragem de notificações. 
+</p>
+<dl paramName="localizationService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			localizationService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000004EA.html" onclick="this.target='';return true;">ILocalizationService</a> 
+	</dd>
+</dl>
+<p>
+	Serviço de traduções. 
+</p>
+<dl paramName="reportReasonService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			reportReasonService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a> 
+	</dd>
+</dl>
+<p>
+	Serviço de denúncias. 
+</p>
+<dl paramName="searchService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			searchService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000556.html" onclick="this.target='';return true;">ISearchService</a> 
+	</dd>
+</dl>
+<p>
+	Serviço de procura. 
+</p>
+<dl paramName="userService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			userService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a> 
+	</dd>
+</dl>
+<p>
+	Serviço de utilizadores. 
+</p>
+<dl paramName="matchmakingService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			matchmakingService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000004F0.html" onclick="this.target='';return true;">IMatchmakingService</a> 
+	</dd>
+</dl>
+<p>
+	Serviço de comparações e pesquisa. 
+</p>
+<dl paramName="emailService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			emailService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000470.html" onclick="this.target='';return true;">IEmailService</a> 
+	</dd>
+</dl>
+<p>
+	Serviço de email. 
+</p>
+<dl paramName="chatService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			chatService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000443.html" onclick="this.target='';return true;">IChatService</a> 
+	</dd>
+</dl>
+<p>
+	Serviço do chat 
+</p>
+<dl paramName="notificationManager" class="parameterList">
+	<dt>
+		<span class="parameter">
+			notificationManager
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_000000000000022A.html" onclick="this.target='';return true;">INotificationManager</a> 
+	</dd>
+</dl>
+<p>
+	Gestor de notificações 
+</p>
+<dl paramName="commonLocalizationService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			commonLocalizationService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> 
+	</dd>
+</dl>
+<p>
+	Serviço de tradução 
+</p>
 
-	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="topic_00000000000001EF.html" onclick="this.target='';return true;">Team</a> 
-	
+<p />
+
 
 
 
@@ -360,11 +528,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000001AE.html">InterestedTeam Class</a><br />
+			<a href="topic_00000000000001AF.html">TeamsController Class</a><br />
 
 
 
-<a href="topic_000000000000018D.html">Workio.Models Namespace</a><br />
+<a href="topic_000000000000013D.html">Workio.Controllers Namespace</a><br />
 
 
 			

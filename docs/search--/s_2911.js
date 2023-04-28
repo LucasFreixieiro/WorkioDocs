@@ -1,0 +1,1 @@
+search_result['2911']=["topic_0000000000000570.html","ITeamsService.GetTeamPendingRequestsByTeamId Method","Obtem a lista de utilizadores que pediram para participar na equipa."];

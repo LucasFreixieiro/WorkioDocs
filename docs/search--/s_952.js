@@ -1,1 +1,1 @@
-search_result['952']=["topic_000000000000022A_props--.html","ConnectionService Properties",""];
+search_result['952']=["topic_0000000000000150.html","AdminEntitiesController.RejectRequest Method","Ação para rejeitar um pedido de entidade registada"];

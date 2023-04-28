@@ -1,1 +1,1 @@
-search_result['1110']=["topic_0000000000000295_vars--.html","LocalizationService Fields",""];
+search_result['1110']=["topic_000000000000019B.html","ReportsController Class","Controlador para as denuncias."];

@@ -1,0 +1,1 @@
+search_result['2559']=["topic_0000000000000477.html","IEmailService.SendBanUserEmail Method","Envia um email ao user quando é banido."];

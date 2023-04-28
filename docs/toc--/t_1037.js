@@ -1,1 +1,1 @@
-c['1037']=[['1038',"Methods","topic_0000000000000327_methods--.html",1]];
+c['1037']=[['1038',"ChatRoom Property","topic_00000000000002B7.html",0],['1039',"ChatRoomId Property","topic_00000000000002B5.html",0],['1040',"Status Property","topic_00000000000002B9.html",0],['1041',"User Property","topic_00000000000002B8.html",0],['1042',"UserId Property","topic_00000000000002B6.html",0]];

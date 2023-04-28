@@ -1,1 +1,1 @@
-search_result['744']=["topic_00000000000001B0.html","InterestedTeam.Team Property","Objeto correspondente ao utilizador que mostrou interesse"];
+search_result['744']=["topic_00000000000000F7_props--.html","SearchController Properties",""];

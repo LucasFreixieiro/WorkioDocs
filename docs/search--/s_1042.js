@@ -1,1 +1,1 @@
-search_result['1042']=["topic_000000000000026A.html","IEventsService.UpVote Method","Verifica se o utilizador pode dar upvote"];
+search_result['1042']=["topic_0000000000000180_overloads--.html","EventEnrollmentsController.TeamEnrollment Method","Metodo utilizado para inscrever uma equipa no evento"];

@@ -1,0 +1,1 @@
+search_result['2892']=["topic_0000000000000562.html","SearchService.GetUsersByNameIgnoreAccentuatedCharacters Method","Obtem todos os utilizadores com um determinado email"];

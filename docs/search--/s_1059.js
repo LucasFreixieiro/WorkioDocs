@@ -1,1 +1,1 @@
-search_result['1059']=["topic_0000000000000277_props--.html","IBlockService Properties",""];
+search_result['1059']=["topic_0000000000000185_vars--.html","TeamsFilterViewModel Fields",""];

@@ -1,0 +1,1 @@
+search_result['2557']=["topic_0000000000000475.html","IEmailService.SendNewMemberTeamRequestEmail Method","Envia um email ao proprietário de um equipa quando recebe uma nova solicitação de adesão."];

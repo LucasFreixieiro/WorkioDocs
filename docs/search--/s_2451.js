@@ -1,0 +1,1 @@
+search_result['2451']=["topic_0000000000000428.html","PeriodicHostedService.IsEnabled Property","Indica se as atualizações estão ativadas."];

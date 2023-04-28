@@ -1,1 +1,1 @@
-search_result['1078']=["topic_0000000000000283_attached_props--.html","IUserService Attached Properties",""];
+search_result['1078']=["topic_000000000000018E.html","MatchmakingController.GetCloseEvents Method","Recebe informações da localização atual do utilizador e da área de procura\r\ne retorna um json com os eventos dentro dessa área."];

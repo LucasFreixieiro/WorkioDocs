@@ -1,1 +1,1 @@
-search_result['1116']=["topic_0000000000000299_events--.html","IReportReasonService Events",""];
+search_result['1116']=["topic_000000000000019C.html","ReportsController Constructor","Construtor da classe\r\n\u003cparam name=\"toastNotification\"\u003eObjeto do tipo ToastNotification para as notificações das ações realizadas\u003c/param\u003e\r\n\u003cparam name=\"eventsService\"\u003eServiço para intereações com a bas..."];

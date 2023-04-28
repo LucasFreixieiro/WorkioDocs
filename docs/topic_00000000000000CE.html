@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>EventEnrollmentsController Constructor</title>
+	<title>InputModel.ConfirmPassword Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">EventEnrollmentsController Constructor</h1>
+		<h1 class="title">InputModel.ConfirmPassword Property</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000C3.html">Workio.Controllers</a>
+<a href="topic_000000000000007A.html">Workio.Areas.Identity.Pages.Account</a>
 
 
 
@@ -89,6 +89,8 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
+        <summary-info>This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
+    directly from your code. This API may change or be removed in future releases.</summary-info>
 
 
 
@@ -138,7 +140,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>toastNotification</i> As <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>, _&nbsp;<br />   ByVal <i>eventsService</i> As <a target="_top" href="topic_000000000000025F.html" onclick="this.target='';return true;">IEventsService</a>, _&nbsp;<br />   ByVal <i>userService</i> As <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>, _&nbsp;<br />   ByVal <i>teamsService</i> As <a target="_top" href="topic_00000000000002B7.html" onclick="this.target='';return true;">ITeamsService</a> _&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;DataType(DataType.Password)&gt; _&nbsp;<br />&lt;Display(Name = &quot;Confirm password&quot;)&gt; _&nbsp;<br />&lt;Compare(&quot;Password&quot;, ErrorMessage = &quot;The password and confirmation password do not match.&quot;)&gt; _&nbsp;<br />Public Property ConfirmPassword() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +179,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public EventEnrollmentsController(&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000025F.html" onclick="this.target='';return true;">IEventsService</a> <i>eventsService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a> <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000002B7.html" onclick="this.target='';return true;">ITeamsService</a> <i>teamsService</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[DataType(DataType.Password)]&nbsp;<br />[Display(Name = &quot;Confirm password&quot;)]&nbsp;<br />[Compare(&quot;Password&quot;, ErrorMessage = &quot;The password and confirmation password do not match.&quot;)]&nbsp;<br />public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> ConfirmPassword {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +219,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />EventEnrollmentsController(&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>^ <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000025F.html" onclick="this.target='';return true;">IEventsService</a>^ <i>eventsService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>^ <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000002B7.html" onclick="this.target='';return true;">ITeamsService</a>^ <i>teamsService</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">[DataType(DataType.Password)]&nbsp;<br />[Display(Name = &quot;Confirm password&quot;)]&nbsp;<br />[Compare(&quot;Password&quot;, ErrorMessage = &quot;The password and confirmation password do not match.&quot;)]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ ConfirmPassword {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +258,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function EventEnrollmentsController(&nbsp;<br />    <i>toastNotification</i> : <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>,&nbsp;<br />    <i>eventsService</i> : <a target="_top" href="topic_000000000000025F.html" onclick="this.target='';return true;">IEventsService</a>,&nbsp;<br />    <i>userService</i> : <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>,&nbsp;<br />    <i>teamsService</i> : <a target="_top" href="topic_00000000000002B7.html" onclick="this.target='';return true;">ITeamsService</a>&nbsp;<br />);</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   DataType(DataType.Password)&nbsp;<br />   Display(Name = &quot;Confirm password&quot;)&nbsp;<br />   Compare(&quot;Password&quot;, ErrorMessage = &quot;The password and confirmation password do not match.&quot;)&nbsp;<br />function get ConfirmPassword() : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>;&nbsp;<br />public &nbsp;<br />   DataType(DataType.Password)&nbsp;<br />   Display(Name = &quot;Confirm password&quot;)&nbsp;<br />   Compare(&quot;Password&quot;, ErrorMessage = &quot;The password and confirmation password do not match.&quot;)&nbsp;<br />function set ConfirmPassword(value : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -267,62 +269,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="toastNotification" class="parameterList">
-	<dt>
-		<span class="parameter">
-			toastNotification
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="eventsService" class="parameterList">
-	<dt>
-		<span class="parameter">
-			eventsService
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_000000000000025F.html" onclick="this.target='';return true;">IEventsService</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="userService" class="parameterList">
-	<dt>
-		<span class="parameter">
-			userService
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="teamsService" class="parameterList">
-	<dt>
-		<span class="parameter">
-			teamsService
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_00000000000002B7.html" onclick="this.target='';return true;">ITeamsService</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
 
-<p />
-
+	<h4 class="subHeading">
+		Property Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
+	
 
 
 
@@ -410,11 +361,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000CD.html">EventEnrollmentsController Class</a><br />
+			<a href="topic_00000000000000CB.html">InputModel Class</a><br />
 
 
 
-<a href="topic_00000000000000C3.html">Workio.Controllers Namespace</a><br />
+<a href="topic_000000000000007A.html">Workio.Areas.Identity.Pages.Account Namespace</a><br />
 
 
 			

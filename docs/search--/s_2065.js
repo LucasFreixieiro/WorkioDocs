@@ -1,0 +1,1 @@
+search_result['2065']=["topic_0000000000000340.html","Notification Class","Modelo de uma notificação que é enviada para o utilizador"];

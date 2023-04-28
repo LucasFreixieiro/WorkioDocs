@@ -1,1 +1,0 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['768',"Workio.Services.Interfaces Namespace","topic_0000000000000276.html"],['774',"IRatingService Interface","topic_000000000000027B.html"],['775',"Methods","topic_000000000000027B_methods--.html"],['777',"GetAverageRating Method","topic_0000000000000280.html"]];

@@ -1,0 +1,1 @@
+search_result['2701']=["topic_00000000000004E7.html","IUserService.IsCurrentUserModAdminEntity Method","Verifica se o utilizador´com sessão iniciada é Admin/Mod/Entidade"];

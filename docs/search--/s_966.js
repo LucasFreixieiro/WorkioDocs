@@ -1,1 +1,1 @@
-search_result['966']=["topic_0000000000000232_vars--.html","IConnectionService Fields",""];
+search_result['966']=["topic_0000000000000156_methods--.html","AdminReportsController Methods",""];

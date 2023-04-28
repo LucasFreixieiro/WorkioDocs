@@ -1,1 +1,1 @@
-search_result['1046']=["topic_000000000000026E.html","IEventsService.isCreator Method","Verifica se o utilizador atual é o criador do evento"];
+search_result['1046']=["topic_0000000000000182.html","EventEnrollmentsController.EventEnrollments Method","Metodo utilizado para apresentar a página de inscrições em um certo evento"];

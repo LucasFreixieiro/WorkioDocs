@@ -1,1 +1,1 @@
-search_result['1006']=["topic_000000000000024B.html","EventService.GetEvent Method","Obtem um evento com um Id especifico."];
+search_result['1006']=["topic_0000000000000170.html","AdminStatisticsController.TotalEventsStats Method","Metodo a geração de uma datatable com o numero de eventos criados por mês"];

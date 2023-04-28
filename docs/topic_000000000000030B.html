@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>UserService.EditSkill Method</title>
+	<title>Connection.RequestedUser Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">UserService.EditSkill Method</h1>
+		<h1 class="title">Connection.RequestedUser Property</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000002F3.html">Workio.Services</a>
+<a href="topic_00000000000002FC.html">Workio.Models</a>
 
 
 
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Recebe uma skill e atualiza-se na base de dados</summary-info>
+        <summary-info>Utilizador que recebeu o pedido de conexão</summary-info>
 
 
 
@@ -139,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Function EditSkill( _&nbsp;<br />   ByVal <i>skill</i> As <a target="_top" href="topic_00000000000001E6.html" onclick="this.target='';return true;">SkillModel</a> _&nbsp;<br />) As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>(Of <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">Boolean</a>)</pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;ForeignKey(nameof(RequestedUserId))&gt; _&nbsp;<br />Public Property RequestedUser() As <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">bool</a>&gt; EditSkill(&nbsp;<br />   <a target="_top" href="topic_00000000000001E6.html" onclick="this.target='';return true;">SkillModel</a> <i>skill</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[ForeignKey(nameof(RequestedUserId))]&nbsp;<br />public <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a> RequestedUser {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">bool</a>^&gt;^ EditSkill(&nbsp;<br />   <a target="_top" href="topic_00000000000001E6.html" onclick="this.target='';return true;">SkillModel</a>^ <i>skill</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">[ForeignKey(nameof(RequestedUserId))]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^ RequestedUser {&nbsp;<br /> <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -257,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   ForeignKey(nameof(RequestedUserId))&nbsp;<br />function get RequestedUser() : <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>;&nbsp;<br />public &nbsp;<br />   ForeignKey(nameof(RequestedUserId))&nbsp;<br />function set RequestedUser(value : <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,29 +268,10 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="skill" class="parameterList">
-	<dt>
-		<span class="parameter">
-			skill
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_00000000000001E6.html" onclick="this.target='';return true;">SkillModel</a> 
-	</dd>
-</dl>
-<p>
-	Skill do utilizador 
-</p>
-
-<p />
 
 	<h4 class="subHeading">
-		Return Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">bool</a>&gt; 
-		<p>
-		true se foi atualizada com sucesso, falso caso contrário 
-	</p>
+		Property Value</h4>
+	<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a> 
 	
 
 
@@ -311,38 +292,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 
-<div class="section_container">
-	<div class="section_heading">
-		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Exceptions</a></span>
-		<div>&nbsp;</div>
-	</div>
-
-	<div id="exceptionsSection" class="section">	
-	<table>
-		<tr>
-			<th>
-				Exception type
-			</th>
-			<th>
-				Condition
-			</th>
-		</tr>
-		<tr>
-			<td>
-				<p>
-<a href="#">Exception</a>
-				</p>
-			</td>
-			<td>
-				<p>
-					Caso o utilizador não esteja logado é retornada uma exceção 
-				</p>
-			</td>
-		</tr>
-			
-	</table>
-	</div>
-</div>
 
 
 
@@ -411,11 +360,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_0000000000000305.html">UserService Class</a><br />
+			<a href="topic_0000000000000304.html">Connection Class</a><br />
 
 
 
-<a href="topic_00000000000002F3.html">Workio.Services Namespace</a><br />
+<a href="topic_00000000000002FC.html">Workio.Models Namespace</a><br />
 
 
 			

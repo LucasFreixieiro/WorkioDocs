@@ -1,0 +1,1 @@
+search_result['2134']=["topic_000000000000035D.html","Report.ReportStatus Property","Objeto do tipo ReportStatus que demonstra o estado da denuncia"];

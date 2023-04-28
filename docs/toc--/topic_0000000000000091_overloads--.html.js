@@ -1,1 +1,0 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000014A.html"],['171',"Workio.Controllers Namespace","topic_0000000000000086.html"],['182',"ReportsController Class","topic_000000000000008F.html"],['184',"Methods","topic_000000000000008F_methods--.html"],['185',"ReportUser Method","topic_0000000000000091_overloads--.html"]];

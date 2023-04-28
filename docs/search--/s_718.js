@@ -1,1 +1,1 @@
-search_result['718']=["topic_00000000000001A3_events--.html","ErrorViewModel Events",""];
+search_result['718']=["topic_00000000000000EF.html","LogsController Constructor",""];

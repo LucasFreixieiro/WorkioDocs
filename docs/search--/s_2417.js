@@ -1,0 +1,1 @@
+search_result['2417']=["topic_0000000000000410.html","AdminService Constructor","Constructor da classe."];

@@ -1,1 +1,0 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['1019',"Workio.ViewComponents Namespace","topic_0000000000000319.html"],['1024',"EventPreviewCardViewComponent Class","topic_000000000000031D.html"],['1026',"Methods","topic_000000000000031D_methods--.html"]];

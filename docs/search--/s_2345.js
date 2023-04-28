@@ -1,0 +1,1 @@
+search_result['2345']=["topic_00000000000003E1.html","IAdminEventService.BanEvent Method","Bane um evento."];

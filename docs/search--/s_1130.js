@@ -1,1 +1,1 @@
-search_result['1130']=["topic_00000000000002A1_methods--.html","ReportReasonService Methods",""];
+search_result['1130']=["topic_00000000000001A1.html","ReportsController.ReportTeam (ReportTeam, Guid) Method","Ação \"POST\" da denuncia de equipas."];

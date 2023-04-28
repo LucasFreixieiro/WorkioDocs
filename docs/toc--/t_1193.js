@@ -1,0 +1,1 @@
+c['1193']=[['1194',"BanEvent Method","topic_00000000000003E1.html",0],['1195',"GetEvents Method","topic_00000000000003E0.html",0],['1196',"MarkAsFeatured Method","topic_00000000000003E3.html",0],['1197',"RemoveFeatured Method","topic_00000000000003E4.html",0],['1198',"UnbanEvent Method","topic_00000000000003E2.html",0]];

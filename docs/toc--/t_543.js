@@ -1,1 +1,1 @@
-c['543']=[['544',"TagId Property","topic_00000000000001EC.html",0],['545',"TagName Property","topic_00000000000001ED.html",0],['546',"TeamId Property","topic_00000000000001EE.html",0]];
+c['543']=[['544',"LogsController Class","topic_00000000000000EE.html",1]];

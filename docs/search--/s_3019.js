@@ -1,0 +1,1 @@
+search_result['3019']=["topic_00000000000005C8.html","RatingService.IsAlreadyRated Method","Verifica se um utilizador já foi avaliado pelo o utilizador logado"];

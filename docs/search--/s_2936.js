@@ -1,0 +1,1 @@
+search_result['2936']=["topic_0000000000000589.html","ITeamsService.GetOpenNewTeams Method","Retorna as equipas abertas das quais o utilizador nao faz parte"];

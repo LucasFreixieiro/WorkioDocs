@@ -1,0 +1,1 @@
+search_result['2729']=["topic_00000000000004F4.html","IMatchmakingService.GetEventsNearWithDistances Method","Recebe informações sobre uma localização e obtem eventos próximos a essa localização até uma\r\ndeterminada distância."];

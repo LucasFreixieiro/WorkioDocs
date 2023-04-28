@@ -1,1 +1,1 @@
-search_result['539']=["topic_000000000000012C.html","UserController.AddConnection Method","Ação para enviar um pedido de conexão para um utilizador"];
+search_result['539']=["topic_00000000000000C0.html","RegisterConfirmationModel.OnGetAsync Method",""];

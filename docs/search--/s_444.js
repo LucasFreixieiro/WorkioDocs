@@ -1,1 +1,1 @@
-search_result['444']=["topic_00000000000000EB.html","ReportsController.ReportTeam (ReportTeam, Guid) Method","Ação \"POST\" da denuncia de equipas."];
+search_result['444']=["topic_000000000000009C.html","InputModel.Email Property","This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used\r\n    directly from your code. This API may change or be removed in future releases."];

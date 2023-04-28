@@ -1,1 +1,1 @@
-search_result['1150']=["topic_00000000000002AE.html","ISearchService.GetTeamsByName Method","Obtem todas as equipas com um determinado nome"];
+search_result['1150']=["topic_00000000000001A7_overloads--.html","RequestEntityStatusController.Create Method","Ação para criar um pedido para ser uma entidade certificada"];

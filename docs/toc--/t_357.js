@@ -1,1 +1,1 @@
-c['357']=[['358',"EventsController Constructor","topic_00000000000000B4.html",0],['359',"Methods","topic_00000000000000B3_methods--.html",1]];
+c['357']=[['358',"AdminStatisticsController Constructor","topic_000000000000016C.html",0],['359',"Methods","topic_000000000000016B_methods--.html",1]];

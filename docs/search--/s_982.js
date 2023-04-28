@@ -1,1 +1,1 @@
-search_result['982']=["topic_000000000000023D.html","IEmailService.ConfirmEmail Method",""];
+search_result['982']=["topic_000000000000015E.html","AdminReportsController.RejectTeamReport Method","Metodo responsavel por rejeitar uma denuncia de equipa"];

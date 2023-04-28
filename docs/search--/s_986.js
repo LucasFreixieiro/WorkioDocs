@@ -1,1 +1,1 @@
-search_result['986']=["topic_0000000000000240_attached_props--.html","EmailService Attached Properties",""];
+search_result['986']=["topic_0000000000000162.html","AdminReportsController.AcceptEventReport Method","Metodo responsavel por aceitar uma denuncia de evento"];

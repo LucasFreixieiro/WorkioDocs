@@ -1,1 +1,1 @@
-search_result['1063']=["topic_000000000000027A.html","IBlockService.RemoveBlock Method","Use este método para remover um bloqueio à base de dados"];
+search_result['1063']=["topic_0000000000000189.html","HomeController.ChangeCulture Method",""];

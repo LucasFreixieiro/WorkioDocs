@@ -1,1 +1,1 @@
-search_result['1193']=["topic_00000000000002CF.html","ITeamsService.DeleteMilestone Method","Elimina uma milestone"];
+search_result['1193']=["topic_00000000000001B7.html","TeamsController.AcceptUser Method","Aceita o pedido de adesão de um utilizador a uma equipa."];

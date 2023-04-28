@@ -1,1 +1,1 @@
-c['943']=[['944',"Methods","topic_0000000000000346_methods--.html",1]];
+c['943']=[['944',"User Constructor","topic_00000000000003BB.html",0],['945',"Properties","topic_00000000000003BA_props--.html",1]];

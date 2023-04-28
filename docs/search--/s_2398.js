@@ -1,0 +1,1 @@
+search_result['2398']=["topic_0000000000000407.html","AdminTeamService.BanTeam Method","Bane uma equipa."];

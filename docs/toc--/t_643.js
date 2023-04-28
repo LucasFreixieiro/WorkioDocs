@@ -1,1 +1,1 @@
-c['643']=[['644',"Sort Method","topic_0000000000000188.html",0]];
+c['643']=[['644',"ChatHub Constructor","topic_0000000000000218.html",0],['645',"Methods","topic_0000000000000217_methods--.html",1]];

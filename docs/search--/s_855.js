@@ -1,1 +1,1 @@
-search_result['855']=["topic_00000000000001E6_props--.html","SkillModel Properties",""];
+search_result['855']=["topic_000000000000012A.html","ChatController.GetChatCount Method","Obtem o número total de notificações por ler"];

@@ -1,0 +1,1 @@
+search_result['1688']=["topic_0000000000000294.html","UserActionLogType Enumeration","Representa as possíveis decisões que podem ser tomadas sobre um utilizador"];

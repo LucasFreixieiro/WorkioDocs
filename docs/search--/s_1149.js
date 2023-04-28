@@ -1,1 +1,1 @@
-search_result['1149']=["topic_00000000000002AD.html","ISearchService.GetUsersByEmail Method","Obtem todos os utilizadores com um determinado email"];
+search_result['1149']=["topic_00000000000001A7.html","RequestEntityStatusController.Create (Nullable\u0026lt;Guid\u0026gt;, IFormFile, String, RequestEntityStatus) Method","Ação para criar um pedido para ser uma entidade certificada"];

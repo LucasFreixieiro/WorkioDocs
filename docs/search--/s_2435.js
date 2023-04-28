@@ -1,0 +1,1 @@
+search_result['2435']=["topic_000000000000041D.html","IAdminService.ApproveRequest Method","Verifica se é possível aprovar um pedido para ser entidade registada"];

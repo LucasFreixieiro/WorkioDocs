@@ -1,1 +1,1 @@
-search_result['1134']=["topic_00000000000002A3.html","ReportReasonService.GetReportReasonsAsync Method",""];
+search_result['1134']=["topic_00000000000001A3.html","RequestEntityStatusController Class","Controlador que dá handle dos pedidos para um utilizador ser uma entidade certificada."];

@@ -1,1 +1,1 @@
-c['421']=[['422',"Methods","topic_0000000000000156_methods--.html",1]];
+c['421']=[['422',"ReportTeam(ReportTeam, Guid) Method","topic_00000000000001A1.html",0],['423',"ReportTeam(Guid) Method","topic_000000000000019E.html",0]];

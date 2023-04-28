@@ -1,0 +1,1 @@
+search_result['1900']=["topic_0000000000000304.html","Connection Class","Classe que representa uma conexão feita por 2 utilizadores."];

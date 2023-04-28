@@ -1,0 +1,1 @@
+search_result['1745']=["topic_00000000000002AF.html","MessageReader Class","Objeto que contem informação sobre os leitores de uma mensagem"];

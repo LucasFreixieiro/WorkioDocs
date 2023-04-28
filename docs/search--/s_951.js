@@ -1,1 +1,1 @@
-search_result['951']=["topic_000000000000022A_methods--.html","ConnectionService Methods",""];
+search_result['951']=["topic_000000000000014F.html","AdminEntitiesController.ApproveRequest Method","Ação para aprovar um pedido de entidade registada"];

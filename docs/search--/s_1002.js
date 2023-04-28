@@ -1,1 +1,1 @@
-search_result['1002']=["topic_0000000000000247_vars--.html","EventService Fields",""];
+search_result['1002']=["topic_000000000000016C.html","AdminStatisticsController Constructor","Constructor da classe."];

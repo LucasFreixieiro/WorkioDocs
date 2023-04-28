@@ -1,1 +1,1 @@
-search_result['1214']=["topic_00000000000002DF.html","TeamsService.AcceptAccess Method","Aceita o pedido de um user e adiciona-o a equipa"];
+search_result['1214']=["topic_00000000000001C4.html","TeamsController.Edit (Guid, Team) Method","Altera os dados da equipa."];

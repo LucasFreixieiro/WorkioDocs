@@ -1,1 +1,1 @@
-search_result['1152']=["topic_00000000000002B0.html","SearchService Class",""];
+search_result['1152']=["topic_00000000000001A8_overloads--.html","RequestEntityStatusController.Edit Method","Ação que permite editar um pedido\r\n\u003cparam name=\"id\"\u003eId do pedido\u003c/param\u003e"];

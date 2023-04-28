@@ -1,0 +1,1 @@
+search_result['2503']=["topic_000000000000044E.html","IChatService.RemoveUserFromTeamChatRoom Method","Remove um utilizador de uma conversa de equipa"];

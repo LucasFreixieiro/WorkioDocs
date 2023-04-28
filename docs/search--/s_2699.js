@@ -1,0 +1,1 @@
+search_result['2699']=["topic_00000000000004E5.html","IUserService.IsBlockedByUser Method","Verifica se o utilizador com sessão iniciada está bloqueado por outro"];

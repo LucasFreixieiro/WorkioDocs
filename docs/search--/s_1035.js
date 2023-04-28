@@ -1,1 +1,1 @@
-search_result['1035']=["topic_0000000000000263.html","IEventsService.UpdateEvent Method","Atualiza um evento"];
+search_result['1035']=["topic_000000000000017E.html","EventEnrollmentsController.CancellEnrollmentUser Method","Metodo utilizado para desinscrever um utilizador no evento"];

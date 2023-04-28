@@ -1,1 +1,1 @@
-search_result['1034']=["topic_0000000000000262.html","IEventsService.GetEvent Method","Retorna um evento fornecendo um id especifico"];
+search_result['1034']=["topic_000000000000017D.html","EventEnrollmentsController.EnrollUser Method","Metodo utilizado para inscrever um utilizador no evento"];

@@ -1,0 +1,1 @@
+search_result['2363']=["topic_00000000000003EE.html","ILogsService.GetEventActionLogDataFiltered Method","Retorna todos os logs relativamente aos Eventos aplicando um filtro de pesquisa que se for null\r\napenas é ignorado e retorna todos os dados."];

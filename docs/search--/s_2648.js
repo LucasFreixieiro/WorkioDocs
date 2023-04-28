@@ -1,0 +1,1 @@
+search_result['2648']=["topic_00000000000004C1.html","IEventsService.GetAllUserInterestedEvents Method","Obtem todos os eventos que um user está interessado, tanto como user ou equipa."];

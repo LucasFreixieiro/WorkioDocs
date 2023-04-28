@@ -1,0 +1,1 @@
+search_result['2153']=["topic_0000000000000366.html","ReportReason.ReasonType Property","Representa o tipo de razão da denuncia, se é uma rasão para denuncia de utilizador,equipa ou evento"];

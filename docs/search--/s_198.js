@@ -1,1 +1,1 @@
-search_result['198']=["topic_000000000000006C_vars--.html","LoginModel Fields",""];
+search_result['198']=["topic_000000000000004C.html","ManageNavPages.IndexNavClass Method","This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used\r\n    directly from your code. This API may change or be removed in future releases."];

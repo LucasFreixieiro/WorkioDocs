@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>ITeamsService Interface</title>
+	<title>UserChatRoom.ChatRoom Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">ITeamsService Interface</h1>
+		<h1 class="title">UserChatRoom.ChatRoom Property</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000002B6.html">Workio.Services.Teams</a>
+<a href="topic_00000000000002A0.html">Workio.Models.Chat</a>
 
 
 
@@ -89,6 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
+        <summary-info>Objeto da sala</summary-info>
 
 
 
@@ -138,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Interface ITeamsService</pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;ForeignKey(nameof(ChatRoomId))&gt; _&nbsp;<br />Public Property ChatRoom() As <a target="_top" href="topic_00000000000002A8.html" onclick="this.target='';return true;">ChatRoom</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public interface ITeamsService</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[ForeignKey(nameof(ChatRoomId))]&nbsp;<br />public <a target="_top" href="topic_00000000000002A8.html" onclick="this.target='';return true;">ChatRoom</a> ChatRoom {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public interface class ITeamsService</pre>			
+					<pre xml:space="preserve" class="brush: cpp">[ForeignKey(nameof(ChatRoomId))]&nbsp;<br />public: &nbsp;<br />property <a target="_top" href="topic_00000000000002A8.html" onclick="this.target='';return true;">ChatRoom</a>^ ChatRoom {&nbsp;<br /> <a target="_top" href="topic_00000000000002A8.html" onclick="this.target='';return true;">ChatRoom</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="topic_00000000000002A8.html" onclick="this.target='';return true;">ChatRoom</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public interface ITeamsService</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   ForeignKey(nameof(ChatRoomId))&nbsp;<br />function get ChatRoom() : <a target="_top" href="topic_00000000000002A8.html" onclick="this.target='';return true;">ChatRoom</a>;&nbsp;<br />public &nbsp;<br />   ForeignKey(nameof(ChatRoomId))&nbsp;<br />function set ChatRoom(value : <a target="_top" href="topic_00000000000002A8.html" onclick="this.target='';return true;">ChatRoom</a>);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,6 +269,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 
+	<h4 class="subHeading">
+		Property Value</h4>
+	<a target="_top" href="topic_00000000000002A8.html" onclick="this.target='';return true;">ChatRoom</a> 
+	
+
 
 
 
@@ -283,852 +289,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	</div>
 </div>
-
-
-
-
-
-
-
-
-
-
-<div class="section_container">
-	<div class="section_heading">
-		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Methods</a></span>
-		<div>&nbsp;</div>
-	</div>
-
-	<div id="MethodsSection" class="section">	
-  <table class="memberListTable">
-    <tr>
-      <th></th>
-      <th>
-        Name
-      </th>
-      <th>
-        Description
-      </th>
-    </tr>
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C2.html">AcceptAccess(Guid)</a>
-
-	</td>
-	<td>
-
-Aceita o pedido de um user e adiciona-o a equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C6.html">AcceptInvite(Guid)</a>
-
-	</td>
-	<td>
-
-Aceita o pedido de uma equipa e adiciona-o a equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C7.html">AcceptInviteByTeam(Guid)</a>
-
-	</td>
-	<td>
-
-Aceita o pedido de uma equipa e adiciona-o a equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002CD.html">AddMilestone(Milestone, Guid)</a>
-
-	</td>
-	<td>
-
-Adiciona uma milestone a equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002BF.html">AddUser(Guid, Guid)</a>
-
-	</td>
-	<td>
-
-Adiciona um user a equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002D1.html">AreTeammates(Guid)</a>
-
-	</td>
-	<td>
-
-Verifica se dois utilizadores pertencem a mesma equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C1.html">AskAccess(Guid)</a>
-
-	</td>
-	<td>
-
-Pedir para fazer parte de uma equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002CA.html">CancelInvite(Guid)</a>
-
-	</td>
-	<td>
-
-Cancela o convite para participar numa equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002D0.html">ChangeMilestoneStatus(Guid, Guid, MilestoneState)</a>
-
-	</td>
-	<td>
-
-Altera o estado de uma milestone
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002BE.html">ChangeTeamStatus(TeamStatus, Guid)</a>
-
-	</td>
-	<td>
-
-Altera o estado da equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002CC.html">CreateTag(Tag)</a>
-
-	</td>
-	<td>
-
-Adiciona uma tag a base de dados
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002BC.html">CreateTeam(Team)</a>
-
-	</td>
-	<td>
-
-Cria uma equipa e guarda na base de dados
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002CF.html">DeleteMilestone(Guid, Guid)</a>
-
-	</td>
-	<td>
-
-Elimina uma milestone
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002B9.html">GetMyTeams()</a>
-
-	</td>
-	<td>
-
-Obtem todas as equipas que o utilizador faz parte na base de dados
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002BA.html">GetOwnTeams()</a>
-
-	</td>
-	<td>
-
-Obtem todas as equipas onde o utilizador é o dono
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002CB.html">GetTags()</a>
-
-	</td>
-	<td>
-
-Obtem todas as tags já criadas
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002BB.html">GetTeamById(Guid)</a>
-
-	</td>
-	<td>
-
-Obtem uma equipa com um id especifico
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002B8.html">GetTeams()</a>
-
-	</td>
-	<td>
-
-Obtem todas as equipas na base de dados
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002D2.html">GiveOwnership(Guid, Guid)</a>
-
-	</td>
-	<td>
-
-Dá ownership a um user da equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C5.html">InviteUserToTeam(Guid, Guid)</a>
-
-	</td>
-	<td>
-
-Convida um utilizador a participar na equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C4.html">LeaveTeam(Guid)</a>
-
-	</td>
-	<td>
-
-Abandonar equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C3.html">RejectAccess(Guid)</a>
-
-	</td>
-	<td>
-
-Rejeitar um pedido para fazer parte de uma equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C8.html">RejectInvite(Guid)</a>
-
-	</td>
-	<td>
-
-Rejeita o pedido de uma equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C9.html">RejectInviteByTeam(Guid)</a>
-
-	</td>
-	<td>
-
-Rejeita o pedido de uma equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002C0.html">RemoveUser(Guid, Guid)</a>
-
-	</td>
-	<td>
-
-Remove um user da equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002CE.html">UpdateMilestone(Milestone, Guid)</a>
-
-	</td>
-	<td>
-
-Atualiza uma milestone
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_00000000000002BD.html">UpdateTeam(Team)</a>
-
-	</td>
-	<td>
-
-Atualiza os dados de uma equipa
-
-	</td>
-</tr>
-
-
-
-
-
-
-  </table>
-
-  <a href="#mainBody">
-    Top
-  </a>
-
-	</div>					
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-<!-- Classes -->
-
-<!-- Classes End -->
-
-<!-- Standard Modules -->
-
-<!-- Standard Modules End -->
-
-  
-
-
-
 
 
 
@@ -1200,10 +360,14 @@ Atualiza os dados de uma equipa
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-	<a href="topic_00000000000002B6.html">Workio.Services.Teams Namespace</a><br />
+			<a href="topic_00000000000002B4.html">UserChatRoom Class</a><br />
 
 
-	
+
+<a href="topic_00000000000002A0.html">Workio.Models.Chat Namespace</a><br />
+
+
+			
 
 		</div>
 	</div>					

@@ -1,1 +1,1 @@
-search_result['804']=["topic_00000000000001D1_props--.html","Report Properties",""];
+search_result['804']=["topic_0000000000000110.html","AdminTeamController.UnbanTeamFromDetails Method","Remove o ban de uma equipa da pagina de details."];

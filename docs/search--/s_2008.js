@@ -1,0 +1,1 @@
+search_result['2008']=["topic_000000000000032A.html","InterestedUser.User Property","Objeto correspondente ao utilizador que mostrou interesse"];

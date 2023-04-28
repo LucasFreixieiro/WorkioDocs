@@ -1,1 +1,1 @@
-search_result['987']=["topic_0000000000000240_events--.html","EmailService Events",""];
+search_result['987']=["topic_0000000000000163.html","AdminReportsController.GetDataUserReports Method","Metodo responsavel por devolver o json com as denuncias de utilizadores"];

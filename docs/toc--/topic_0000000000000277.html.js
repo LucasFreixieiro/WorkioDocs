@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['768',"Workio.Services.Interfaces Namespace","topic_0000000000000276.html"],['769',"IBlockService Interface","topic_0000000000000277.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['978',"Workio.Models.Admin.Logs Namespace","topic_000000000000026E.html"],['987',"EventActionLog Class","topic_0000000000000277.html"]];

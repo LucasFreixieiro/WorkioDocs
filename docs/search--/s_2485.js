@@ -1,0 +1,1 @@
+search_result['2485']=["topic_0000000000000443.html","IChatService Interface","Interface do serviço do chat.\r\nEste serviço faz ligação a uma base de dados de forma a persistir os dados."];

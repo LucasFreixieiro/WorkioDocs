@@ -1,0 +1,1 @@
+search_result['2537']=["topic_0000000000000466.html","IConnectionService.GetUserConnectionsAsync Method","Obtem todas as conexões aceites de um utilizador"];

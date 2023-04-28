@@ -1,1 +1,1 @@
-search_result['1447']=["topic_0000000000000369.html","TeamsControllerTests.TeamsController_Edit2_ReturnsSuccess Method",""];
+search_result['1447']=["topic_000000000000022F.html","NotificationManager.SendNotification Method","Envia uma notificação ao utilizador em real-time e guarda a mesma na base de dados"];

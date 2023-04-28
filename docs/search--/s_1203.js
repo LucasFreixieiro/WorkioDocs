@@ -1,1 +1,1 @@
-search_result['1203']=["topic_00000000000002D4.html","TeamsService Constructor",""];
+search_result['1203']=["topic_00000000000001BC.html","TeamsController.AcceptInvite Method","Aceita um pedido de participação numa equipa."];

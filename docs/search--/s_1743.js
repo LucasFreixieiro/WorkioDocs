@@ -1,0 +1,1 @@
+search_result['1743']=["topic_00000000000002AD.html","ChatRoom.TeamId Property","(Opcional) Id da equipa que faz parte desta conversa\r\nNull -\u003e Conversa user-to-user\r\n!Null -\u003e Conversa em grupo"];

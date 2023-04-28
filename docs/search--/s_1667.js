@@ -1,0 +1,1 @@
+search_result['1667']=["topic_0000000000000289.html","TeamActionLog.ChangedTeam Property","Objeto da equipa da qual o seu estado foi modificado."];

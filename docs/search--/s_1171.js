@@ -1,1 +1,1 @@
-search_result['1171']=["topic_00000000000002B9.html","ITeamsService.GetMyTeams Method","Obtem todas as equipas que o utilizador faz parte na base de dados"];
+search_result['1171']=["topic_00000000000001AF_attached_props--.html","TeamsController Attached Properties",""];

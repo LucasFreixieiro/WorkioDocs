@@ -1,1 +1,1 @@
-search_result['832']=["topic_00000000000001DD.html","ReportTeam.ReportedTeamId Property",""];
+search_result['832']=["topic_000000000000011C_attached_props--.html","IBlockService Attached Properties",""];

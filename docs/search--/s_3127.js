@@ -1,0 +1,1 @@
+search_result['3127']=["topic_000000000000060C.html","FeaturedBannersViewComponent Constructor","Construtor da classe"];

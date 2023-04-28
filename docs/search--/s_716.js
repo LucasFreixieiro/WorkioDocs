@@ -1,1 +1,1 @@
-search_result['716']=["topic_00000000000001A3.html","ErrorViewModel Class",""];
+search_result['716']=["topic_00000000000000EE_props--.html","LogsController Properties",""];

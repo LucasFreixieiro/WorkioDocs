@@ -1,1 +1,1 @@
-search_result['470']=["topic_00000000000000F7_methods--.html","SearchController Methods",""];
+search_result['470']=["topic_00000000000000A2.html","LoginWith2faModel Constructor",""];

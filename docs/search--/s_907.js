@@ -1,1 +1,1 @@
-search_result['907']=["topic_000000000000020D.html","TeamInviteUser Class",""];
+search_result['907']=["topic_000000000000013C.html","EventsController.GetEventsInRangeStartDate Method","Retorna um JSON com os eventos em que a data de inicio está entre duas datas."];

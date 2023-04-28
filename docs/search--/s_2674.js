@@ -1,0 +1,1 @@
+search_result['2674']=["topic_00000000000004D1.html","IRatingService.GetRatingId Method","Obtem o id da rating da qual o utilizador atual avaliou outro utilizador"];

@@ -1,1 +1,1 @@
-search_result['740']=["topic_00000000000001AE_methods--.html","InterestedTeam Methods",""];
+search_result['740']=["topic_00000000000000F7.html","LogsController.GetEventsLogsData Method","Retorna um json com a listagem de logs de eventos relativamente à página solicitada."];

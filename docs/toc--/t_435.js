@@ -1,1 +1,1 @@
-c['435']=[['436',"Properties","topic_0000000000000195_props--.html",1]];
+c['435']=[['436',"Edit(Guid, IFormFile, string, RequestEntityStatus) Method","topic_00000000000001A9.html",0],['437',"Edit(Guid) Method","topic_00000000000001A8.html",0]];

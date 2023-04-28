@@ -1,1 +1,1 @@
-search_result['937']=["topic_0000000000000224.html","User.Experiences Property",""];
+search_result['937']=["topic_000000000000014B.html","AdminController.GetUserTeamsReports Method","Obtem uma lista em json das denúncias que foram feitas contra as equipas deste utilizador"];

@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>User.Events Property</title>
+	<title>IConnectionManager.RemoveConnection Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">User.Events Property</h1>
+		<h1 class="title">IConnectionManager.RemoveConnection Method</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_000000000000018D.html">Workio.Models</a>
+<a href="topic_000000000000021E.html">Workio.Managers.Connections</a>
 
 
 
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Overridable Property Events() As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1">ICollection</a>(Of <a target="_top" href="topic_000000000000015B.html" onclick="this.target='';return true;">Event</a>)</pre>			
+					<pre xml:space="preserve" class="brush: vb">Sub RemoveConnection( _&nbsp;<br />   ByVal <i>connectionId</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a> _&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public virtual <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1">ICollection</a>&lt;<a target="_top" href="topic_000000000000015B.html" onclick="this.target='';return true;">Event</a>&gt; Events {get; set;}</pre>			
+					<pre xml:space="preserve" class="brush: csharp"><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.void">void</a> RemoveConnection(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> <i>connectionId</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />virtual property <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1">ICollection</a>&lt;<a target="_top" href="topic_000000000000015B.html" onclick="this.target='';return true;">Event</a>^&gt;^ Events {&nbsp;<br /> <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1">ICollection</a>&lt;<a target="_top" href="topic_000000000000015B.html" onclick="this.target='';return true;">Event</a>^&gt;^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1">ICollection</a>&lt;<a target="_top" href="topic_000000000000015B.html" onclick="this.target='';return true;">Event</a>^&gt;^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
+					<pre xml:space="preserve" class="brush: cpp">&nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.void">void</a> RemoveConnection(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ <i>connectionId</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +256,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
+					<pre xml:space="preserve" class="brush: js">function RemoveConnection(&nbsp;<br />    <i>connectionId</i> : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>&nbsp;<br />);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -267,11 +267,23 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
+<h4 class="subHeading">
+	Parameters</h4><dl paramName="connectionId" class="parameterList">
+	<dt>
+		<span class="parameter">
+			connectionId
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
 
-	<h4 class="subHeading">
-		Property Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icollection-1">ICollection</a>&lt;<a target="_top" href="topic_000000000000015B.html" onclick="this.target='';return true;">Event</a>&gt; 
-	
+<p />
+
 
 
 
@@ -359,11 +371,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_000000000000021A.html">User Class</a><br />
+			<a href="topic_0000000000000224.html">IConnectionManager Interface</a><br />
 
 
 
-<a href="topic_000000000000018D.html">Workio.Models Namespace</a><br />
+<a href="topic_000000000000021E.html">Workio.Managers.Connections Namespace</a><br />
 
 
 			

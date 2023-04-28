@@ -1,1 +1,1 @@
-search_result['967']=["topic_0000000000000233.html","IConnectionService.GetUserConnectionsAsync Method","Obtem todas as conexões aceites de um utilizador"];
+search_result['967']=["topic_0000000000000156_props--.html","AdminReportsController Properties",""];

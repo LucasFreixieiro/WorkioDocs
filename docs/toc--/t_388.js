@@ -1,1 +1,1 @@
-c['388']=[['389',"ReportReasonService Constructor","topic_0000000000000131.html",0],['390',"Methods","topic_0000000000000130_methods--.html",1]];
+c['388']=[['389',"ChangeCulture Method","topic_0000000000000189.html",0],['390',"Error Method","topic_0000000000000188.html",0],['391',"Index Method","topic_0000000000000186.html",0],['392',"Privacy Method","topic_0000000000000187.html",0]];

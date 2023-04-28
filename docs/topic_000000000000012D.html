@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>UserController.RemoveConnection Method</title>
+	<title>EventsController Constructor</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">UserController.RemoveConnection Method</h1>
+		<h1 class="title">EventsController Constructor</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000C3.html">Workio.Controllers</a>
+<a href="topic_000000000000012B.html">Workio.Controllers.Events</a>
 
 
 
@@ -89,7 +89,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Ação para remover uma conexão de um utilizador</summary-info>
 
 
 
@@ -139,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Function RemoveConnection( _&nbsp;<br />   ByVal <i>id</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>, _&nbsp;<br />   ByVal <i>profile</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">Boolean</a> _&nbsp;<br />) As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>(Of <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.actionresult">ActionResult</a>)</pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>signInManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>(Of <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>userManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>(Of <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>eventsService</i> As <a target="_top" href="topic_00000000000004A5.html" onclick="this.target='';return true;">IEventsService</a>, _&nbsp;<br />   ByVal <i>toastNotification</i> As <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>, _&nbsp;<br />   ByVal <i>localizationService</i> As <a target="_top" href="topic_00000000000004EA.html" onclick="this.target='';return true;">ILocalizationService</a>, _&nbsp;<br />   ByVal <i>matchmakingService</i> As <a target="_top" href="topic_00000000000004F0.html" onclick="this.target='';return true;">IMatchmakingService</a>, _&nbsp;<br />   ByVal <i>webHostEnvironment</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment">IWebHostEnvironment</a>, _&nbsp;<br />   ByVal <i>userService</i> As <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a>, _&nbsp;<br />   ByVal <i>commonLocalizationService</i> As <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> _&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.actionresult">ActionResult</a>&gt; RemoveConnection(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> <i>id</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">bool</a> <i>profile</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public EventsController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; <i>signInManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; <i>userManager</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004A5.html" onclick="this.target='';return true;">IEventsService</a> <i>eventsService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004EA.html" onclick="this.target='';return true;">ILocalizationService</a> <i>localizationService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004F0.html" onclick="this.target='';return true;">IMatchmakingService</a> <i>matchmakingService</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment">IWebHostEnvironment</a> <i>webHostEnvironment</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a> <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> <i>commonLocalizationService</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.actionresult">ActionResult</a>^&gt;^ RemoveConnection(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> <i>id</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">bool</a> <i>profile</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />EventsController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>signInManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>userManager</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004A5.html" onclick="this.target='';return true;">IEventsService</a>^ <i>eventsService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>^ <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004EA.html" onclick="this.target='';return true;">ILocalizationService</a>^ <i>localizationService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004F0.html" onclick="this.target='';return true;">IMatchmakingService</a>^ <i>matchmakingService</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment">IWebHostEnvironment</a>^ <i>webHostEnvironment</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a>^ <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a>^ <i>commonLocalizationService</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -269,39 +268,126 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 <h4 class="subHeading">
-	Parameters</h4><dl paramName="id" class="parameterList">
+	Parameters</h4><dl paramName="signInManager" class="parameterList">
 	<dt>
 		<span class="parameter">
-			id
+			signInManager
 		</span>
 	</dt>
 	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> 
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; 
 	</dd>
 </dl>
 <p>
-	Variavel com o id do utilizador correspondente ao pedido de conexão 
+	 
 </p>
-<dl paramName="profile" class="parameterList">
+<dl paramName="userManager" class="parameterList">
 	<dt>
 		<span class="parameter">
-			profile
+			userManager
 		</span>
 	</dt>
 	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.boolean">bool</a> 
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>&gt; 
 	</dd>
 </dl>
 <p>
-	Variavel bool que quando verdadeira representa que se está no perfil de um utilizador 
+	 
+</p>
+<dl paramName="eventsService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			eventsService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000004A5.html" onclick="this.target='';return true;">IEventsService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="toastNotification" class="parameterList">
+	<dt>
+		<span class="parameter">
+			toastNotification
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="localizationService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			localizationService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000004EA.html" onclick="this.target='';return true;">ILocalizationService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="matchmakingService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			matchmakingService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000004F0.html" onclick="this.target='';return true;">IMatchmakingService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="webHostEnvironment" class="parameterList">
+	<dt>
+		<span class="parameter">
+			webHostEnvironment
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment">IWebHostEnvironment</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="userService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			userService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="commonLocalizationService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			commonLocalizationService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> 
+	</dd>
+</dl>
+<p>
+	 
 </p>
 
 <p />
 
-	<h4 class="subHeading">
-		Return Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.actionresult">ActionResult</a>&gt; 
-	
 
 
 
@@ -389,11 +475,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_000000000000011A.html">UserController Class</a><br />
+			<a href="topic_000000000000012C.html">EventsController Class</a><br />
 
 
 
-<a href="topic_00000000000000C3.html">Workio.Controllers Namespace</a><br />
+<a href="topic_000000000000012B.html">Workio.Controllers.Events Namespace</a><br />
 
 
 			

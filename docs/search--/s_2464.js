@@ -1,0 +1,1 @@
+search_result['2464']=["topic_0000000000000430.html","ChatService.GetChatRoomBetweenUsers Method","Obtem uma sala de conversa entre 2 utilizadores que não seja uma equipa"];

@@ -1,1 +1,1 @@
-search_result['1003']=["topic_0000000000000248.html","EventService Constructor",""];
+search_result['1003']=["topic_000000000000016D.html","AdminStatisticsController.TotalUserStats Method","Metodo a geração de uma datatable com o numero de contas criadas por mês"];

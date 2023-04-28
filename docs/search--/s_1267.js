@@ -1,1 +1,1 @@
-search_result['1267']=["topic_0000000000000305.html","UserService Class","Implementação da interface IUserService"];
+search_result['1267']=["topic_00000000000001DA.html","UserController.DeleteExperience Method",""];

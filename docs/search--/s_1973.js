@@ -1,0 +1,1 @@
+search_result['1973']=["topic_0000000000000320.html","FormDataModel.ReasonType Property","Variavel que guarda o tipo de denuncia vinda do formulário de adicionar denuncias"];

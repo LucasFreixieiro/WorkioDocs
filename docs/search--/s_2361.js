@@ -1,0 +1,1 @@
+search_result['2361']=["topic_00000000000003EC.html","ILogsService.GetUserActionDataFiltered Method","Retorna todos os logs relativamente ao UserActionLog aplicado um filtro de pesquisa que se for null\r\napenas é ignorado e retorna todos os dados."];

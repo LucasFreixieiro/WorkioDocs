@@ -1,1 +1,1 @@
-search_result['1177']=["topic_00000000000002BF.html","ITeamsService.AddUser Method","Adiciona um user a equipa"];
+search_result['1177']=["topic_00000000000001B1.html","TeamsController.Index Method","Recebe filtros e retorna uma página com as equipas filtradas."];

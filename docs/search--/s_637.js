@@ -1,1 +1,1 @@
-search_result['637']=["topic_0000000000000170.html","Event.EventTags Property","Guarda as tags de um evento"];
+search_result['637']=["topic_00000000000000DB_props--.html","RatingModelsController Properties",""];

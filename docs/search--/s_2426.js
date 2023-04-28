@@ -1,0 +1,1 @@
+search_result['2426']=["topic_0000000000000419.html","AdminService.GetUserTeamsReports Method","Obtem uma lista de reports que foram feitos contra o equipas que o utilizador participa"];

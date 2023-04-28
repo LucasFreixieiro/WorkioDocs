@@ -1,0 +1,1 @@
+search_result['2842']=["topic_0000000000000544.html","IRequestEntityStatusService Interface","Interface de serviços para guardar dados relativamente aos pedidos de entidades registadas na base de dados."];

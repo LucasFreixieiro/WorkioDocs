@@ -1,1 +1,1 @@
-search_result['1251']=["topic_00000000000002FA.html","CommonLocalizationService Constructor",""];
+search_result['1251']=["topic_00000000000001D4.html","UserController.AddSkill Method","Ação para adicionar uma habilidade no perfil do utilizador"];

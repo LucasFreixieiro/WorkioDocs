@@ -1,0 +1,1 @@
+search_result['1726']=["topic_00000000000002A6.html","ChatMessage.Sender Property","Objeto do utilizador que enviou a mensagem"];

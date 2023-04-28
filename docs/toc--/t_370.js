@@ -1,1 +1,1 @@
-c['370']=[['371',"AddBlock Method","topic_000000000000011E.html",0],['372',"GetBlocksAsync Method","topic_000000000000011D.html",0]];
+c['370']=[['371',"BlockUser Method","topic_0000000000000177.html",0],['372',"BlockedUsers Method","topic_0000000000000178.html",0],['373',"Unblock Method","topic_0000000000000179.html",0],['374',"UnblockFromConnections Method","topic_000000000000017A.html",0]];

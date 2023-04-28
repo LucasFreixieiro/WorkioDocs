@@ -1,0 +1,1 @@
+search_result['2693']=["topic_00000000000004DF.html","IUserService.AddExperience Method","Recebe os dados de um experiência e adiciona-a ao utilizador com sessão iniciada na base de dados"];

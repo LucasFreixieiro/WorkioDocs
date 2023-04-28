@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>RatingModelsController Constructor</title>
+	<title>IsDateAfterAttribute Class</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">RatingModelsController Constructor</h1>
+		<h1 class="title">IsDateAfterAttribute Class</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000C3.html">Workio.Controllers</a>
+<a href="topic_0000000000000634.html">&lt;default&gt;</a>
 
 
 
@@ -89,6 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
+        <summary-info>Verifica se uma data é maior que outra</summary-info>
 
 
 
@@ -138,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>context</i> As <a target="_top" href="topic_000000000000012F.html" onclick="this.target='';return true;">ApplicationDbContext</a>, _&nbsp;<br />   ByVal <i>ratingService</i> As <a target="_top" href="topic_000000000000027B.html" onclick="this.target='';return true;">IRatingService</a>, _&nbsp;<br />   ByVal <i>userService</i> As <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>, _&nbsp;<br />   ByVal <i>toastNotification</i> As <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> _&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: vb">Public NotInheritable Class IsDateAfterAttribute&nbsp;<br />    Inherits <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations.validationattribute">ValidationAttribute</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public RatingModelsController(&nbsp;<br />   <a target="_top" href="topic_000000000000012F.html" onclick="this.target='';return true;">ApplicationDbContext</a> <i>context</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000027B.html" onclick="this.target='';return true;">IRatingService</a> <i>ratingService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a> <i>userService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> <i>toastNotification</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public sealed class IsDateAfterAttribute : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations.validationattribute">ValidationAttribute</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />RatingModelsController(&nbsp;<br />   <a target="_top" href="topic_000000000000012F.html" onclick="this.target='';return true;">ApplicationDbContext</a>^ <i>context</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000027B.html" onclick="this.target='';return true;">IRatingService</a>^ <i>ratingService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>^ <i>userService</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>^ <i>toastNotification</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">public ref class IsDateAfterAttribute sealed : public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system::componentmodel::dataannotations::validationattribute">ValidationAttribute</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public function RatingModelsController(&nbsp;<br />    <i>context</i> : <a target="_top" href="topic_000000000000012F.html" onclick="this.target='';return true;">ApplicationDbContext</a>,&nbsp;<br />    <i>ratingService</i> : <a target="_top" href="topic_000000000000027B.html" onclick="this.target='';return true;">IRatingService</a>,&nbsp;<br />    <i>userService</i> : <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>,&nbsp;<br />    <i>toastNotification</i> : <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>&nbsp;<br />);</pre>			
+					<pre xml:space="preserve" class="brush: js">public final class IsDateAfterAttribute&nbsp;<br />   extends <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations.validationattribute">ValidationAttribute</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -266,62 +267,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 		
 	</div>
 
-
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="context" class="parameterList">
-	<dt>
-		<span class="parameter">
-			context
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_000000000000012F.html" onclick="this.target='';return true;">ApplicationDbContext</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="ratingService" class="parameterList">
-	<dt>
-		<span class="parameter">
-			ratingService
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_000000000000027B.html" onclick="this.target='';return true;">IRatingService</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="userService" class="parameterList">
-	<dt>
-		<span class="parameter">
-			userService
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="toastNotification" class="parameterList">
-	<dt>
-		<span class="parameter">
-			toastNotification
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-
-<p />
 
 
 
@@ -339,6 +284,101 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	</div>
 </div>
+
+
+
+
+
+
+
+
+
+
+<div class="section_container">
+	<div class="section_heading">
+		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">Methods</a></span>
+		<div>&nbsp;</div>
+	</div>
+
+	<div id="MethodsSection" class="section">	
+  <table class="memberListTable">
+    <tr>
+      <th></th>
+      <th>
+        Name
+      </th>
+      <th>
+        Description
+      </th>
+    </tr>
+
+
+
+
+	<tr class="
+
+
+">
+	<td>
+   <img alt="Protected method" title="Protected method" src="msdn2019/protmethod.png"></img>
+
+    
+	  
+
+
+    
+	</td>
+	<td>
+	<a href="topic_00000000000000DE.html">IsValid(object, ValidationContext)</a>
+
+	</td>
+	<td>
+
+
+
+	</td>
+</tr>
+
+
+
+
+
+
+  </table>
+
+  <a href="#mainBody">
+    Top
+  </a>
+
+	</div>					
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<!-- Classes -->
+
+<!-- Classes End -->
+
+<!-- Standard Modules -->
+
+<!-- Standard Modules End -->
+
+  
+
+
+
 
 
 
@@ -402,6 +442,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>					
 </div>
 
+
 <div class="section_container">
 	<div class="section_heading">
 		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">See Also</a></span>
@@ -410,14 +451,10 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000DB.html">RatingModelsController Class</a><br />
+	<a href="topic_0000000000000634.html">&lt;default&gt; Namespace</a><br />
 
 
-
-<a href="topic_00000000000000C3.html">Workio.Controllers Namespace</a><br />
-
-
-			
+	
 
 		</div>
 	</div>					

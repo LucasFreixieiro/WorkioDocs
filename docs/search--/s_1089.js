@@ -1,1 +1,1 @@
-search_result['1089']=["topic_000000000000028A.html","IUserService.AddExperience Method","Recebe os dados de um experiência e adiciona-a ao utilizador com sessão iniciada na base de dados"];
+search_result['1089']=["topic_000000000000018F_vars--.html","NotificationsController Fields",""];

@@ -1,0 +1,1 @@
+search_result['2907']=["topic_000000000000056C.html","ITeamsService.GetUserTeams Method","Obtem todas as equipas que o utilizador faz parte na base de dados"];

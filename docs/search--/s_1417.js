@@ -1,1 +1,1 @@
-search_result['1417']=["topic_0000000000000352_methods--.html","SearchControllerTests Methods",""];
+search_result['1417']=["topic_0000000000000224_attached_props--.html","IConnectionManager Attached Properties",""];

@@ -1,1 +1,1 @@
-search_result['1252']=["topic_00000000000002FB.html","CommonLocalizationService.Get Method",""];
+search_result['1252']=["topic_00000000000001D5.html","UserController.EditSkill Method","Controlador para editar uma skill"];

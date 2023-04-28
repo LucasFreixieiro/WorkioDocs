@@ -1,0 +1,1 @@
+search_result['1802']=["topic_00000000000002CF.html","Event.Latitude Property","Latitude da localização do evento fisíco"];

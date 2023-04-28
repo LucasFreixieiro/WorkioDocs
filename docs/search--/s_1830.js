@@ -1,0 +1,1 @@
+search_result['1830']=["topic_00000000000002E1.html","EventReactionType Enumeration","Representa um voto positivo ou um negativo"];

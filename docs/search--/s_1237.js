@@ -1,1 +1,1 @@
-search_result['1237']=["topic_00000000000002F4_events--.html","BlockService Events",""];
+search_result['1237']=["topic_00000000000001D0.html","UserController Class","Controlador do user. Serve para dar handle do pedidos relacionados com o utilizador"];

@@ -1,1 +1,1 @@
-search_result['1307']=["topic_000000000000031D_attached_props--.html","EventPreviewCardViewComponent Attached Properties",""];
+search_result['1307']=["topic_00000000000001E9.html","UserStatisticsController.TeamsParticipated Method","Metodo a geração de uma datatable com o numero de equipas que o utilizador participou e o seu status"];

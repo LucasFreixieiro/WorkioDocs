@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>IEmailService Interface</title>
+	<title>AddedDateRegister Class</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">IEmailService Interface</h1>
+		<h1 class="title">AddedDateRegister Class</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_0000000000000239.html">Workio.Services.Email.Interfaces</a>
+<a href="topic_0000000000000231.html">Workio.Migrations</a>
 
 
 
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Interface IEmailService</pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;DbContext(typeof(ApplicationDbContext))&gt; _&nbsp;<br />&lt;Migration(&quot;20230330220013_AddedDateRegister&quot;)&gt; _&nbsp;<br />Public Class AddedDateRegister&nbsp;<br />    Inherits <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.migrations.migration">Migration</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public interface IEmailService</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[DbContext(typeof(ApplicationDbContext))]&nbsp;<br />[Migration(&quot;20230330220013_AddedDateRegister&quot;)]&nbsp;<br />public class AddedDateRegister : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.migrations.migration">Migration</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public interface class IEmailService</pre>			
+					<pre xml:space="preserve" class="brush: cpp">[DbContext(typeof(ApplicationDbContext))]&nbsp;<br />[Migration(&quot;20230330220013_AddedDateRegister&quot;)]&nbsp;<br />public ref class AddedDateRegister : public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft::entityframeworkcore::migrations::migration">Migration</a>^</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +256,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">public interface IEmailService</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   DbContext(typeof(ApplicationDbContext))&nbsp;<br />   Migration(&quot;20230330220013_AddedDateRegister&quot;)&nbsp;<br />class AddedDateRegister&nbsp;<br />   extends <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.migrations.migration">Migration</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -319,13 +319,16 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 ">
 	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
+   <img alt="Protected method" title="Protected method" src="msdn2019/protmethod.png"></img>
+
+    
+	  
 
 
     
 	</td>
 	<td>
-	<a href="topic_000000000000023E.html">ChangeEmail(string, string)</a>
+	<a href="topic_000000000000023D.html">BuildTargetModel(ModelBuilder)</a>
 
 	</td>
 	<td>
@@ -347,13 +350,16 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 ">
 	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
+   <img alt="Protected method" title="Protected method" src="msdn2019/protmethod.png"></img>
+
+    
+	  
 
 
     
 	</td>
 	<td>
-	<a href="topic_000000000000023D.html">ConfirmEmail(string, string)</a>
+	<a href="topic_000000000000023C.html">Down(MigrationBuilder)</a>
 
 	</td>
 	<td>
@@ -375,41 +381,16 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 ">
 	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
+   <img alt="Protected method" title="Protected method" src="msdn2019/protmethod.png"></img>
+
+    
+	  
 
 
     
 	</td>
 	<td>
-	<a href="topic_000000000000023B.html">SendEmail(EmailData)</a>
-
-	</td>
-	<td>
-
-
-
-	</td>
-</tr>
-
-
-
-
-
-
-
-
-	<tr class="
-
-
-">
-	<td>
-<img alt="Public method" title="Public method" src="msdn2019/pubmethod.png"></img>
-
-
-    
-	</td>
-	<td>
-	<a href="topic_000000000000023C.html">SendRecoverPasswordEmail(User, string)</a>
+	<a href="topic_000000000000023B.html">Up(MigrationBuilder)</a>
 
 	</td>
 	<td>
@@ -432,7 +413,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	</div>					
 </div>
-
 
 
 
@@ -525,6 +505,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>					
 </div>
 
+
 <div class="section_container">
 	<div class="section_heading">
 		<span><a href="javascript:void(0)" title="Collapse" onclick="toggleSection(this);">See Also</a></span>
@@ -533,7 +514,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-	<a href="topic_0000000000000239.html">Workio.Services.Email.Interfaces Namespace</a><br />
+	<a href="topic_0000000000000231.html">Workio.Migrations Namespace</a><br />
 
 
 	

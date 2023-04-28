@@ -1,0 +1,1 @@
+search_result['2896']=["topic_0000000000000566.html","SearchService.GetEventsByNameIgnoreAccentuatedCharacters Method","Obtem todas os eventos com um determinado nome ignoranto caracteres pontuados."];

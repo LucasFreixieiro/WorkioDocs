@@ -1,0 +1,1 @@
+search_result['2864']=["topic_0000000000000550.html","RequestEntityStatusService.AlreadyRequested Method","Permite validar se um utilizador já realizou um pedido"];

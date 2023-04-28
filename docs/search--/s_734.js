@@ -1,1 +1,1 @@
-search_result['734']=["topic_00000000000001AB.html","ExperienceModel.Description Property",""];
+search_result['734']=["topic_00000000000000F6.html","LogsController.GetTeamsLogsData Method","Retorna um json com a listagem de logs de equipas relativamente à página solicitada."];

@@ -1,1 +1,1 @@
-search_result['1301']=["topic_000000000000031A_methods--.html","EventMiniCardViewComponent Methods",""];
+search_result['1301']=["topic_00000000000001E7_attached_props--.html","UserStatisticsController Attached Properties",""];

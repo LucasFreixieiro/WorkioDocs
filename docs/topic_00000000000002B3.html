@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>SearchService.GetUsersByName Method</title>
+	<title>MessageReader.Reader Property</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">SearchService.GetUsersByName Method</h1>
+		<h1 class="title">MessageReader.Reader Property</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000002AA.html">Workio.Services.Search</a>
+<a href="topic_00000000000002A0.html">Workio.Models.Chat</a>
 
 
 
@@ -89,7 +89,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Obtem todos os utilizadores com um determinado nome</summary-info>
+        <summary-info>Objeto do utilizador que leu a mensagem</summary-info>
 
 
 
@@ -139,7 +139,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Function GetUsersByName( _&nbsp;<br />   ByVal <i>name</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a> _&nbsp;<br />) As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>(Of <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>(Of <a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>))</pre>			
+					<pre xml:space="preserve" class="brush: vb">&lt;ForeignKey(nameof(ReaderId))&gt; _&nbsp;<br />Public Overridable Property Reader() As <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +178,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt;&gt; GetUsersByName(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> <i>name</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">[ForeignKey(nameof(ReaderId))]&nbsp;<br />public virtual <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a> Reader {get; set;}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +218,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>^&gt;^&gt;^ GetUsersByName(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">String</a>^ <i>name</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">[ForeignKey(nameof(ReaderId))]&nbsp;<br />public: &nbsp;<br />virtual property <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^ Reader {&nbsp;<br /> <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^ get( );&nbsp;<br /> void set(&nbsp;<br />   <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>^ value&nbsp;<br /> );&nbsp;<br />}</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -257,7 +257,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
+					<pre xml:space="preserve" class="brush: js">public &nbsp;<br />   ForeignKey(nameof(ReaderId))&nbsp;<br />function get Reader() : <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>;&nbsp;<br />public &nbsp;<br />   ForeignKey(nameof(ReaderId))&nbsp;<br />function set Reader(value : <a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a>);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,29 +268,10 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	</div>
 
 
-<h4 class="subHeading">
-	Parameters</h4><dl paramName="name" class="parameterList">
-	<dt>
-		<span class="parameter">
-			name
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.string">string</a> 
-	</dd>
-</dl>
-<p>
-	Parte do nome do utilizador 
-</p>
-
-<p />
 
 	<h4 class="subHeading">
-		Return Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1">List</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt;&gt; 
-		<p>
-		Lista de utilizadores com um determinado nome ou parte dele 
-	</p>
+		Property Value</h4>
+	<a target="_top" href="topic_00000000000003BA.html" onclick="this.target='';return true;">User</a> 
 	
 
 
@@ -379,11 +360,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000002B0.html">SearchService Class</a><br />
+			<a href="topic_00000000000002AF.html">MessageReader Class</a><br />
 
 
 
-<a href="topic_00000000000002AA.html">Workio.Services.Search Namespace</a><br />
+<a href="topic_00000000000002A0.html">Workio.Models.Chat Namespace</a><br />
 
 
 			

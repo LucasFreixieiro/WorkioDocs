@@ -1,1 +1,1 @@
-search_result['963']=["topic_0000000000000232_events--.html","IConnectionService Events",""];
+search_result['963']=["topic_0000000000000156.html","AdminReportsController Class","Controlador para a gestão das denuncias por parte da administração"];

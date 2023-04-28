@@ -1,0 +1,1 @@
+search_result['2529']=["topic_0000000000000463.html","ConnectionService.AreFriends Method","Verifica se existe uma conexão entre 2 utilizadores"];

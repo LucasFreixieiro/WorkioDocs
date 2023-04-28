@@ -1,1 +1,1 @@
-search_result['712']=["topic_000000000000019F.html","EmailData.EmailToId Property",""];
+search_result['712']=["topic_00000000000000EE.html","LogsController Class","Gerencia os acesso ás páginas relativamente aos logs"];

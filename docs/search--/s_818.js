@@ -1,1 +1,1 @@
-search_result['818']=["topic_00000000000001D9.html","ReportReason Class",""];
+search_result['818']=["topic_0000000000000119.html","ChatController Class","Controlador para o chat. O utilizador tem de estar logado para poder utilizador as suas funções"];

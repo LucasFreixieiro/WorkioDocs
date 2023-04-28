@@ -1,0 +1,1 @@
+search_result['2390']=["topic_0000000000000404.html","AdminTeamService Class","Representa a implementação da interface IAdminTeamService com a lógica para obter os dados relevantes a equipas\r\nna base de dados."];

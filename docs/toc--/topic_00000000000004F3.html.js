@@ -1,0 +1,1 @@
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['1478',"Workio.Services.Matchmaking Namespace","topic_00000000000004EF.html"],['1479',"IMatchmakingService Interface","topic_00000000000004F0.html"],['1480',"Methods","topic_00000000000004F0_methods--.html"],['1481',"GetEventsNear Method","topic_00000000000004F3.html"]];

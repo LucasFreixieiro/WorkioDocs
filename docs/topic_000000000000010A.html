@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>TeamsController.RejectInviteByTeam Method</title>
+	<title>AdminTeamController Constructor</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">TeamsController.RejectInviteByTeam Method</h1>
+		<h1 class="title">AdminTeamController Constructor</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000C3.html">Workio.Controllers</a>
+<a href="topic_00000000000000F9.html">Workio.Controllers.Admin</a>
 
 
 
@@ -138,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Function RejectInviteByTeam( _&nbsp;<br />   ByVal <i>teamId</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> _&nbsp;<br />) As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>(Of <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>)</pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>webHostEnvironment</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment">IWebHostEnvironment</a>, _&nbsp;<br />   ByVal <i>toastNotification</i> As <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>, _&nbsp;<br />   ByVal <i>userService</i> As <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a>, _&nbsp;<br />   ByVal <i>adminTeamService</i> As <a target="_top" href="topic_000000000000040A.html" onclick="this.target='';return true;">IAdminTeamService</a>, _&nbsp;<br />   ByVal <i>logsService</i> As <a target="_top" href="topic_00000000000003E5.html" onclick="this.target='';return true;">ILogsService</a>, _&nbsp;<br />   ByVal <i>teamsService</i> As <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a>, _&nbsp;<br />   ByVal <i>reportReasonService</i> As <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a>, _&nbsp;<br />   ByVal <i>localizationService</i> As <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> _&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -177,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>&gt; RejectInviteByTeam(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> <i>teamId</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public AdminTeamController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment">IWebHostEnvironment</a> <i>webHostEnvironment</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a> <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000040A.html" onclick="this.target='';return true;">IAdminTeamService</a> <i>adminTeamService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000003E5.html" onclick="this.target='';return true;">ILogsService</a> <i>logsService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a> <i>teamsService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a> <i>reportReasonService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> <i>localizationService</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -217,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>^&gt;^ RejectInviteByTeam(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> <i>teamId</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />AdminTeamController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment">IWebHostEnvironment</a>^ <i>webHostEnvironment</i>,&nbsp;<br />   <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>^ <i>toastNotification</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a>^ <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000040A.html" onclick="this.target='';return true;">IAdminTeamService</a>^ <i>adminTeamService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000003E5.html" onclick="this.target='';return true;">ILogsService</a>^ <i>logsService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a>^ <i>teamsService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a>^ <i>reportReasonService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a>^ <i>localizationService</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -256,7 +256,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeJScript">
-					<pre xml:space="preserve" class="brush: js">JScript does not support generic types and methods.</pre>			
+					<pre xml:space="preserve" class="brush: js">public function AdminTeamController(&nbsp;<br />    <i>webHostEnvironment</i> : <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment">IWebHostEnvironment</a>,&nbsp;<br />    <i>toastNotification</i> : <a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a>,&nbsp;<br />    <i>userService</i> : <a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a>,&nbsp;<br />    <i>adminTeamService</i> : <a target="_top" href="topic_000000000000040A.html" onclick="this.target='';return true;">IAdminTeamService</a>,&nbsp;<br />    <i>logsService</i> : <a target="_top" href="topic_00000000000003E5.html" onclick="this.target='';return true;">ILogsService</a>,&nbsp;<br />    <i>teamsService</i> : <a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a>,&nbsp;<br />    <i>reportReasonService</i> : <a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a>,&nbsp;<br />    <i>localizationService</i> : <a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a>&nbsp;<br />);</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -268,14 +268,105 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 <h4 class="subHeading">
-	Parameters</h4><dl paramName="teamId" class="parameterList">
+	Parameters</h4><dl paramName="webHostEnvironment" class="parameterList">
 	<dt>
 		<span class="parameter">
-			teamId
+			webHostEnvironment
 		</span>
 	</dt>
 	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a> 
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.hosting.iwebhostenvironment">IWebHostEnvironment</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="toastNotification" class="parameterList">
+	<dt>
+		<span class="parameter">
+			toastNotification
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href=".html" onclick="this.target='';return true;">IToastNotification</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="userService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			userService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000004D4.html" onclick="this.target='';return true;">IUserService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="adminTeamService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			adminTeamService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_000000000000040A.html" onclick="this.target='';return true;">IAdminTeamService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="logsService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			logsService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000003E5.html" onclick="this.target='';return true;">ILogsService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="teamsService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			teamsService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_0000000000000568.html" onclick="this.target='';return true;">ITeamsService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="reportReasonService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			reportReasonService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_000000000000050C.html" onclick="this.target='';return true;">IReportReasonService</a> 
+	</dd>
+</dl>
+<p>
+	 
+</p>
+<dl paramName="localizationService" class="parameterList">
+	<dt>
+		<span class="parameter">
+			localizationService
+		</span>
+	</dt>
+	<dd>
+		<a target="_top" href="topic_00000000000005B9.html" onclick="this.target='';return true;">CommonLocalizationService</a> 
 	</dd>
 </dl>
 <p>
@@ -284,10 +375,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 <p />
 
-	<h4 class="subHeading">
-		Return Value</h4>
-	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>&gt; 
-	
 
 
 
@@ -375,11 +462,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_00000000000000FB.html">TeamsController Class</a><br />
+			<a href="topic_0000000000000109.html">AdminTeamController Class</a><br />
 
 
 
-<a href="topic_00000000000000C3.html">Workio.Controllers Namespace</a><br />
+<a href="topic_00000000000000F9.html">Workio.Controllers.Admin Namespace</a><br />
 
 
 			

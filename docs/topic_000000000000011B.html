@@ -4,7 +4,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="GENERATOR" content="VSdocman - documentation generator; https://www.helixoft.com" />
 	<link rel="icon" href="favicon.ico">
-	<title>UserController Constructor</title>
+	<title>ChatController.Index Method</title>
 
 	<link rel="stylesheet" type="text/css" href="msdn2019/toc.css" />
 	<script src="msdn2019/toc.js"></script>
@@ -38,7 +38,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 	  </div>
 	</div>
   	<div id="header-top-container2">
-    <div id="runningHeaderText">SOLUTION-WIDE PROPERTIES Reference</div>
+    <div id="runningHeaderText">Workio Reference</div>
    
     <div id="search-bar-container">
      <form id="search-bar" action="search--.html">
@@ -74,11 +74,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
   </div>
 
 <div id="mainBody">
-		<h1 class="title">UserController Constructor</h1>
+		<h1 class="title">ChatController.Index Method</h1>
         
 		<div class="metadata">
         Namespace:
-<a href="topic_00000000000000C3.html">Workio.Controllers</a>
+<a href="topic_0000000000000118.html">Workio.Controllers.Chat</a>
 
 
 
@@ -89,7 +89,6 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
        
        
-        <summary-info>Constructor da classe.</summary-info>
 
 
 
@@ -139,7 +138,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeVB">
-					<pre xml:space="preserve" class="brush: vb">Public Sub New( _&nbsp;<br />   ByVal <i>userManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>(Of <a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>signInManager</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>(Of <a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>), _&nbsp;<br />   ByVal <i>userService</i> As <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>, _&nbsp;<br />   ByVal <i>connectionService</i> As <a target="_top" href="topic_0000000000000232.html" onclick="this.target='';return true;">IConnectionService</a>, _&nbsp;<br />   ByVal <i>ratingService</i> As <a target="_top" href="topic_000000000000027B.html" onclick="this.target='';return true;">IRatingService</a>, _&nbsp;<br />   ByVal <i>teamsService</i> As <a target="_top" href="topic_00000000000002B7.html" onclick="this.target='';return true;">ITeamsService</a> _&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: vb">Public Function Index( _&nbsp;<br />   ByVal <i>roomId</i> As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1">Nullable</a>(Of <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>) _&nbsp;<br />) As <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a></pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -178,7 +177,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCsharp">
-					<pre xml:space="preserve" class="brush: csharp">public UserController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt; <i>userManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt; <i>signInManager</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a> <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000232.html" onclick="this.target='';return true;">IConnectionService</a> <i>connectionService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000027B.html" onclick="this.target='';return true;">IRatingService</a> <i>ratingService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000002B7.html" onclick="this.target='';return true;">ITeamsService</a> <i>teamsService</i>&nbsp;<br />)</pre>			
+					<pre xml:space="preserve" class="brush: csharp">public <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a> Index(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1">Nullable</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>&gt; <i>roomId</i>&nbsp;<br />)</pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -218,7 +217,7 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 				</div>
 				
 				<div class="codeSnippetCode codeCpp">
-					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br />UserController(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>userManager</i>,&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>^&gt;^ <i>signInManager</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a>^ <i>userService</i>,&nbsp;<br />   <a target="_top" href="topic_0000000000000232.html" onclick="this.target='';return true;">IConnectionService</a>^ <i>connectionService</i>,&nbsp;<br />   <a target="_top" href="topic_000000000000027B.html" onclick="this.target='';return true;">IRatingService</a>^ <i>ratingService</i>,&nbsp;<br />   <a target="_top" href="topic_00000000000002B7.html" onclick="this.target='';return true;">ITeamsService</a>^ <i>teamsService</i>&nbsp;<br />) </pre>			
+					<pre xml:space="preserve" class="brush: cpp">public: &nbsp;<br /><a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a>^ Index(&nbsp;<br />   <a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1">Nullable</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>^&gt; <i>roomId</i>&nbsp;<br />) </pre>			
 				</div>
 				<div class="codeSnippetCode codeNA">
 					<pre xml:space="preserve">This language is not supported or no code example is available.</pre>			
@@ -269,79 +268,14 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 
 <h4 class="subHeading">
-	Parameters</h4><dl paramName="userManager" class="parameterList">
+	Parameters</h4><dl paramName="roomId" class="parameterList">
 	<dt>
 		<span class="parameter">
-			userManager
+			roomId
 		</span>
 	</dt>
 	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.usermanager-1">UserManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt; 
-	</dd>
-</dl>
-<p>
-	Variavel para aceder ao serviço 
-</p>
-<dl paramName="signInManager" class="parameterList">
-	<dt>
-		<span class="parameter">
-			signInManager
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.identity.signinmanager-1">SignInManager</a>&lt;<a target="_top" href="topic_000000000000021A.html" onclick="this.target='';return true;">User</a>&gt; 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="userService" class="parameterList">
-	<dt>
-		<span class="parameter">
-			userService
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_0000000000000283.html" onclick="this.target='';return true;">IUserService</a> 
-	</dd>
-</dl>
-<p>
-	Variavel para aceder ao serviço de utilizadores 
-</p>
-<dl paramName="connectionService" class="parameterList">
-	<dt>
-		<span class="parameter">
-			connectionService
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_0000000000000232.html" onclick="this.target='';return true;">IConnectionService</a> 
-	</dd>
-</dl>
-<p>
-	Variavel para aceder ao serviço de conexões 
-</p>
-<dl paramName="ratingService" class="parameterList">
-	<dt>
-		<span class="parameter">
-			ratingService
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_000000000000027B.html" onclick="this.target='';return true;">IRatingService</a> 
-	</dd>
-</dl>
-<p>
-	 
-</p>
-<dl paramName="teamsService" class="parameterList">
-	<dt>
-		<span class="parameter">
-			teamsService
-		</span>
-	</dt>
-	<dd>
-		<a target="_top" href="topic_00000000000002B7.html" onclick="this.target='';return true;">ITeamsService</a> 
+		<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1">Nullable</a>&lt;<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/system.guid">Guid</a>&gt; 
 	</dd>
 </dl>
 <p>
@@ -350,6 +284,10 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 <p />
 
+	<h4 class="subHeading">
+		Return Value</h4>
+	<a target="_top" href="https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.iactionresult">IActionResult</a> 
+	
 
 
 
@@ -437,11 +375,11 @@ document.write(getCssCustomProperty('--headerTopCustomLineHtml'));
 
 	<div id="seeAlsoSection" class="section">	
 		<div>
-			<a href="topic_000000000000011A.html">UserController Class</a><br />
+			<a href="topic_0000000000000119.html">ChatController Class</a><br />
 
 
 
-<a href="topic_00000000000000C3.html">Workio.Controllers Namespace</a><br />
+<a href="topic_0000000000000118.html">Workio.Controllers.Chat Namespace</a><br />
 
 
 			

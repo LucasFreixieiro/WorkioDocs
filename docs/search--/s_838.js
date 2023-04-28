@@ -1,1 +1,1 @@
-search_result['838']=["topic_00000000000001DE_vars--.html","ReportUser Fields",""];
+search_result['838']=["topic_000000000000011E.html","ChatController.NewChatModal Method","Retorna um componente modal para criar/abrir um chat."];

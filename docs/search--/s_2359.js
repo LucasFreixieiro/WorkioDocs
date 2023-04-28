@@ -1,0 +1,1 @@
+search_result['2359']=["topic_00000000000003EA.html","ILogsService.CreateSystemLog Method","Insere um log relativamente a algum acontecimento que não foi necessáriamente desencadeado por um utilizador ou relativamente a um utilizador."];

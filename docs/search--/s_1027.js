@@ -1,1 +1,1 @@
-search_result['1027']=["topic_000000000000025F_attached_props--.html","IEventsService Attached Properties",""];
+search_result['1027']=["topic_000000000000017B.html","EventEnrollmentsController Class","Controlador para as inscrições nos eventos"];

@@ -1,1 +1,0 @@
-c['1028']=[['1029',"EventsSoonViewComponent Constructor","topic_0000000000000321.html",0],['1030',"Methods","topic_0000000000000320_methods--.html",1]];

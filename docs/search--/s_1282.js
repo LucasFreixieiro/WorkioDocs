@@ -1,1 +1,1 @@
-search_result['1282']=["topic_000000000000030F.html","UserService.EditExperience Method","Recebe uma experiência atualizada e atualiza-a na base de dados"];
+search_result['1282']=["topic_00000000000001DF.html","UserController.AddEndorsement Method",""];

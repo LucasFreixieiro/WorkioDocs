@@ -1,0 +1,1 @@
+search_result['2175']=["topic_0000000000000372.html","ReportTeam.ReportedTeamId Property","Guid que representa o id da equipa reportada"];

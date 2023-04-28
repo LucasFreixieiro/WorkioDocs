@@ -1,0 +1,1 @@
+search_result['2401']=["topic_000000000000040A.html","IAdminTeamService Interface","Interface para o administrador interagir com as equipas a partir da lista de equipas disponivel no dashboard"];

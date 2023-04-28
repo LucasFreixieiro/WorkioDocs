@@ -1,0 +1,1 @@
+search_result['3016']=["topic_00000000000005C5.html","RatingService.IsRated Method","Verifica se um utilizador já foi avaliado por outro"];

@@ -1,0 +1,1 @@
+search_result['2349']=["topic_00000000000003E5.html","ILogsService Interface","Interface para interagir e guardar dados na base de dados relativamente aos logs do frontend."];

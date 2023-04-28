@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['827',"Workio.Services.Search Namespace","topic_00000000000002AA.html"],['835',"ISearchService Interface","topic_00000000000002AB.html"],['836',"Methods","topic_00000000000002AB_methods--.html"],['837',"GetEventsByName Method","topic_00000000000002AF.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['1013',"Workio.Models.Chat Namespace","topic_00000000000002A0.html"],['1030',"MessageReader Class","topic_00000000000002AF.html"]];

@@ -1,1 +1,1 @@
-search_result['624']=["topic_0000000000000163.html","Event.Tags Property","Texto pleno com as tags do evento"];
+search_result['624']=["topic_00000000000000D8_props--.html","ExperienceModel Properties",""];

@@ -1,0 +1,1 @@
+search_result['2961']=["topic_000000000000059D.html","TeamsService.RejectAccess Method","Rejeitar um pedido para fazer parte de uma equipa"];

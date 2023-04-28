@@ -1,0 +1,1 @@
+search_result['2934']=["topic_0000000000000587.html","ITeamsService.GiveOwnership Method","Dá ownership a um user da equipa"];

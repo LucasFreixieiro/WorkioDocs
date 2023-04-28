@@ -1,0 +1,1 @@
+search_result['1607']=["topic_0000000000000270.html","ActionLog.AuthorId Property","Id do utilizador responsável pelo aparecimento do log.\r\nAo seja o Id utilizador que realizou a ação."];

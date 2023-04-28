@@ -1,1 +1,1 @@
-search_result['1308']=["topic_000000000000031D_events--.html","EventPreviewCardViewComponent Events",""];
+search_result['1308']=["topic_00000000000001EA.html","UserStatisticsController.HowJoined Method","Metodo a geração de uma datatable com o numero de equipas criadas por mês"];

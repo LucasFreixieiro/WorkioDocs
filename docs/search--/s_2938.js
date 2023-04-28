@@ -1,0 +1,1 @@
+search_result['2938']=["topic_000000000000058B.html","ITeamsService.GetTeamByInviteId Method","Obtem a equipa de um convite pelo id do convite."];

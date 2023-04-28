@@ -1,0 +1,1 @@
+search_result['1777']=["topic_00000000000002BB.html","ITeamsService.GetTeamById Method","Obtem uma equipa com um id especifico"];

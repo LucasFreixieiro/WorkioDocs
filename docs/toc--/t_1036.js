@@ -1,1 +1,1 @@
-c['1036']=[['1037',"BootstrapModalViewComponent Class","topic_0000000000000327.html",1]];
+c['1036']=[['1037',"Properties","topic_00000000000002B4_props--.html",1]];

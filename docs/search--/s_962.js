@@ -1,1 +1,1 @@
-search_result['962']=["topic_0000000000000232_attached_props--.html","IConnectionService Attached Properties",""];
+search_result['962']=["topic_0000000000000155.html","AdminEntitiesController.GetRequestRejected Method","Retorna um json com a listagem de logs de pedidos rejeitados relativamente à página solicitada."];

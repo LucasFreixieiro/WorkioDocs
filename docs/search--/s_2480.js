@@ -1,0 +1,1 @@
+search_result['2480']=["topic_000000000000043E.html","ChatService.UserInChat Method","Verifica se um user está num chat."];

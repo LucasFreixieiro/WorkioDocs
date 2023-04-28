@@ -1,0 +1,1 @@
+c['1249']=[['1250',"BanTeam Method","topic_000000000000040C.html",0],['1251',"GetTeams Method","topic_000000000000040B.html",0],['1252',"UnbanTeam Method","topic_000000000000040D.html",0]];

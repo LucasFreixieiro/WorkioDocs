@@ -1,0 +1,1 @@
+search_result['2367']=["topic_00000000000003F2.html","ILogsService.GetEventActionLogByLogId Method","Obtem e retorna um log especifico referente ao EventActionLog através do Id recebido."];

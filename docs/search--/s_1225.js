@@ -1,1 +1,1 @@
-search_result['1225']=["topic_00000000000002EA.html","TeamsService.AddMilestone Method","Adiciona uma milestone a equipa"];
+search_result['1225']=["topic_00000000000001C9.html","TeamsController.InviteToTeam Method","Convida um utilizador para um equipa."];

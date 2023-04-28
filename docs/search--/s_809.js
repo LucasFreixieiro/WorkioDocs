@@ -1,1 +1,1 @@
-search_result['809']=["topic_00000000000001D5.html","Report.Description Property",""];
+search_result['809']=["topic_0000000000000115.html","AdminTeamController.GetBannedTeamData Method","Obtem e trabalha as equipas banidas para serem usadas na tabela."];

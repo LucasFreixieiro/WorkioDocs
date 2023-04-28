@@ -1,0 +1,1 @@
+search_result['1680']=["topic_0000000000000291.html","UserActionLog.ChangedUserId Property","Id do utilizador da qual foi feita a decisão de alterar ou não o seu estado."];

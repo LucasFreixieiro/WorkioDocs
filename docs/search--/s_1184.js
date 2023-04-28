@@ -1,1 +1,1 @@
-search_result['1184']=["topic_00000000000002C6.html","ITeamsService.AcceptInvite Method","Aceita o pedido de uma equipa e adiciona-o a equipa"];
+search_result['1184']=["topic_00000000000001B3.html","TeamsController.Details Method","Mostra os detalhes de uma equipa."];

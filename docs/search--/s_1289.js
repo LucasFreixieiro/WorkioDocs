@@ -1,1 +1,1 @@
-search_result['1289']=["topic_0000000000000316.html","ScriptTagHelper Class",""];
+search_result['1289']=["topic_00000000000001E1.html","UserController.Connections Method","Ação para listar as conexões de um utilizador"];

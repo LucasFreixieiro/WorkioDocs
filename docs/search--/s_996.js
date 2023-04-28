@@ -1,1 +1,1 @@
-search_result['996']=["topic_0000000000000246.html","Workio.Services.Events Namespace",""];
+search_result['996']=["topic_000000000000016B.html","AdminStatisticsController Class","Controlador para a gestão das estatisticas apresentadas na administração"];

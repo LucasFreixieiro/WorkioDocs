@@ -1,0 +1,1 @@
+search_result['2510']=["topic_0000000000000455.html","IChatService.CanSendMessageToChatRoom Method","Verifica se um user pode enviar mensagens para um chat.\r\n1º Verifica se é uma equipa se for verifica se o user está nos membros.\r\n2º Se não for uma equipa verifica se o user tem as dms abertas, senão ..."];

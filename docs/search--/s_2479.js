@@ -1,0 +1,1 @@
+search_result['2479']=["topic_000000000000043D.html","ChatService.UserInTeamChat Method","Verifica se existe algum chat para 1 equipa e o user está lá."];

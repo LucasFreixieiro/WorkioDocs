@@ -1,1 +1,1 @@
-search_result['1007']=["topic_000000000000024C.html","EventService.RemoveInterestedUser Method","Remove um utilizador interessado"];
+search_result['1007']=["topic_0000000000000171.html","AdminStatisticsController.InterestedInEvents Method","Metodo a geração de uma datatable com o numero de interessados vs o numero de não interessados em eventos"];

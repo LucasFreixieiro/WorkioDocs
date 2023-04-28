@@ -1,1 +1,1 @@
-search_result['1187']=["topic_00000000000002C9.html","ITeamsService.RejectInviteByTeam Method","Rejeita o pedido de uma equipa"];
+search_result['1187']=["topic_00000000000001B6.html","TeamsController.CloseInscriptions Method","Fecha o aceitamento de inscrições numa equipa."];

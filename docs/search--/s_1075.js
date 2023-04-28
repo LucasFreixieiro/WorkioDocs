@@ -1,1 +1,1 @@
-search_result['1075']=["topic_0000000000000281.html","IRatingService.IsRated Method",""];
+search_result['1075']=["topic_000000000000018B.html","MatchmakingController Constructor","Inicializa os parâmetros necessários."];

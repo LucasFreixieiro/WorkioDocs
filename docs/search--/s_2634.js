@@ -1,0 +1,1 @@
+search_result['2634']=["topic_00000000000004B3.html","IEventsService.UpVote Method","Verifica se o utilizador pode dar upvote"];

@@ -1,0 +1,1 @@
+search_result['1668']=["topic_000000000000028A.html","TeamActionLog.ActionLogType Property","Tipo de ação tomada."];

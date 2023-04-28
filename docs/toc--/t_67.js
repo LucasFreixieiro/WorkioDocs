@@ -1,1 +1,1 @@
-c['67']=[['68',"LogoutModel Constructor","topic_0000000000000079.html",0],['69',"Methods","topic_0000000000000078_methods--.html",1]];
+c['67']=[['68',"OnGetAsync Method","topic_000000000000009F.html",0],['69',"OnPostAsync Method","topic_00000000000000A0.html",0]];

@@ -1,0 +1,1 @@
+search_result['2356']=["topic_00000000000003E7.html","ILogsService.CreateAdminActionLog Method","Insere um log relativamente a uma ação feita por um utilizador que não influencia nenhuma 2ª entidade."];

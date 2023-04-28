@@ -1,0 +1,1 @@
+search_result['2522']=["topic_000000000000045C.html","ConnectionService.GetConnectionsAsync Method","Metodo responsavel por obter todas as conexões"];

@@ -1,1 +1,1 @@
-search_result['931']=["topic_000000000000021E.html","User.GitHubAcc Property",""];
+search_result['931']=["topic_000000000000014A.html","AdminController.GetUserReports Method","Obtem uma lista em json das denúncias que foram feitas contra este utilizador"];

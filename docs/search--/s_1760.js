@@ -1,0 +1,1 @@
+search_result['1760']=["topic_00000000000002B4.html","UserChatRoom Class","Objecto de uma sala ativa por parte de um user"];

@@ -1,0 +1,1 @@
+search_result['2590']=["topic_000000000000048C.html","EventService.GetFeaturedEvents Method","Retorna uma lista de eventos com todos os eventos promovidos pela plataforma"];

@@ -1,0 +1,1 @@
+search_result['1674']=["topic_0000000000000290.html","UserActionLog Class","Representa uma ação sobre um utilizador por parte de um outro (pode ser um administrador ou outro)."];

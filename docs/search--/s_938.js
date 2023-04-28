@@ -1,1 +1,1 @@
-search_result['938']=["topic_0000000000000225.html","User.BlockedUsers Property",""];
+search_result['938']=["topic_000000000000014C.html","AdminController.GetUserEventsReports Method","Obtem uma lista em json das denúncias que foram feitas contra os eventos deste utilizador"];

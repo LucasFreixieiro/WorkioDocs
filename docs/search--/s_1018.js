@@ -1,1 +1,1 @@
-search_result['1018']=["topic_0000000000000257.html","EventService.AlreadyDownvoted Method","Verifica se o utilizador já deu downvote"];
+search_result['1018']=["topic_0000000000000177.html","BlockedUsersController.BlockUser Method","Ação para bloquear um utilizador"];

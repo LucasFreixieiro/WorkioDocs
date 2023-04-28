@@ -1,0 +1,1 @@
+search_result['2369']=["topic_00000000000003F4.html","LogsService Class","Representa a implementação da interface ILogsService com a lógica para guardar os dados referentes a logs\r\nna base de dados."];

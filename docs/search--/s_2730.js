@@ -1,0 +1,1 @@
+search_result['2730']=["topic_00000000000004F5.html","MatchmakingService Class","Fornece serviços de consulta à base de dados relativamente à comparação de informação para obter recomendação para os utilizadores."];

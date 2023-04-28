@@ -1,1 +1,1 @@
-search_result['1172']=["topic_00000000000002BA.html","ITeamsService.GetOwnTeams Method","Obtem todas as equipas onde o utilizador é o dono"];
+search_result['1172']=["topic_00000000000001AF_events--.html","TeamsController Events",""];

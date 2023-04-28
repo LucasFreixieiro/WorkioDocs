@@ -1,0 +1,1 @@
+search_result['2176']=["topic_0000000000000373.html","ReportTeam.ReportedTeam Property","Objeto que guarda a equipa que foi reportada"];

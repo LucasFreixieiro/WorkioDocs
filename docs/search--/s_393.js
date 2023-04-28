@@ -1,1 +1,1 @@
-search_result['393']=["topic_00000000000000D1.html","EventEnrollmentsController.TeamEnrollment (Guid) Method","Metodo utilizado para reedirecionar para a página onde a equipa se inscreve"];
+search_result['393']=["topic_000000000000008D.html","ExternalLoginModel.OnGetCallbackAsync Method",""];

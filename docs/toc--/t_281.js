@@ -1,1 +1,1 @@
-c['281']=[['282',"Id Property","topic_00000000000000E7.html",0],['283',"Reason Property","topic_00000000000000E8.html",0]];
+c['281']=[['282',"HasAuthenticator Property","topic_0000000000000073.html",0],['283',"Is2faEnabled Property","topic_0000000000000075.html",0],['284',"IsMachineRemembered Property","topic_0000000000000076.html",0],['285',"RecoveryCodesLeft Property","topic_0000000000000074.html",0],['286',"StatusMessage Property","topic_0000000000000077.html",0]];

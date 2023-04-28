@@ -1,0 +1,1 @@
+search_result['1659']=["topic_0000000000000286.html","SystemLog.Description Property","Texto com a descrição/Justificação do porque dá ação ter sido tomada."];

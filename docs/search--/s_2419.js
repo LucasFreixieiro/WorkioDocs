@@ -1,0 +1,1 @@
+search_result['2419']=["topic_0000000000000412.html","AdminService.ApproveRequest Method","Verifica se é possível aprovar um pedido para ser entidade registada"];

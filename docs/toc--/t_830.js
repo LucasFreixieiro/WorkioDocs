@@ -1,1 +1,0 @@
-c['830']=[['831',"GetEventsByName Method","topic_00000000000002B5.html",0],['832',"GetTeamsByName Method","topic_00000000000002B4.html",0],['833',"GetUsersByEmail Method","topic_00000000000002B2.html",0],['834',"GetUsersByName Method","topic_00000000000002B3.html",0]];

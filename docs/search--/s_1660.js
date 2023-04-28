@@ -1,0 +1,1 @@
+search_result['1660']=["topic_0000000000000287.html","TeamActionLog Class","Representa uma ação sobre uma equipa por parte um utilizador.\r\n(Ex: No caso de uma equipa não se encontrar nos padrões pode ser removida)"];

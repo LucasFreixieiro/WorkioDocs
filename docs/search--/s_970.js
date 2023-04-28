@@ -1,1 +1,1 @@
-search_result['970']=["topic_0000000000000236.html","IConnectionService.AddConnection Method",""];
+search_result['970']=["topic_0000000000000158.html","AdminReportsController.Reports Method","Metodo de encaminhamento para a página de visualização das denuncias"];

@@ -1,1 +1,1 @@
-c['805']=[['806',"GetLocalizations Method","topic_0000000000000294.html",0]];
+c['805']=[['806',"Properties","topic_000000000000032C_props--.html",1]];

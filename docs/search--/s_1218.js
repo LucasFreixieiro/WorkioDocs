@@ -1,1 +1,1 @@
-search_result['1218']=["topic_00000000000002E3.html","TeamsService.AcceptInvite Method","Aceita o pedido de uma equipa e adiciona-o a equipa"];
+search_result['1218']=["topic_00000000000001C7.html","TeamsController.OpenModal Method","Retorna um componente modal de diálog de decisão."];

@@ -1,1 +1,1 @@
-search_result['729']=["topic_00000000000001A6_vars--.html","ExperienceModel Fields",""];
+search_result['729']=["topic_00000000000000F3.html","LogsController.EventActionLogDetails Method","Recebe o id de um log de um evento e retorna uma view com as informações\r\ndo log."];

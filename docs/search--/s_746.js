@@ -1,1 +1,1 @@
-search_result['746']=["topic_00000000000001B2.html","InterestedUser Class",""];
+search_result['746']=["topic_00000000000000F8.html","LogsController.GetAdminLogsData Method","Retorna um json com a listagem de logs da administração relativamente à página solicitada."];

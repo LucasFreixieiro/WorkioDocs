@@ -1,0 +1,1 @@
+search_result['2420']=["topic_0000000000000413.html","AdminService.RejectRequest Method","Verifica se é possível rejeitar um pedido para ser entidade registada"];

@@ -1,1 +1,1 @@
-search_result['1233']=["topic_00000000000002F2.html","TeamsService.GiveOwnership Method","Dá ownership a um user da equipa"];
+search_result['1233']=["topic_00000000000001CC.html","TeamsController.DeleteMilestone Method","Controlador para eliminar uma milestone"];

@@ -1,1 +1,1 @@
-search_result['1202']=["topic_00000000000002D3_vars--.html","TeamsService Fields",""];
+search_result['1202']=["topic_00000000000001BB.html","TeamsController.CancelInvite Method","Cancela o envio de um pedido de participação."];

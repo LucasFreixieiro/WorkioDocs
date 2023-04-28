@@ -1,0 +1,1 @@
+search_result['2169']=["topic_0000000000000371.html","ReportTeam Class","Classe que representa um denuncia de equipa, extende classe de denuncias"];

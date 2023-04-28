@@ -1,1 +1,1 @@
-search_result['1088']=["topic_0000000000000289.html","IUserService.GetUserExperience Method","Obtem todas as experiências de um utilizador"];
+search_result['1088']=["topic_000000000000018F_props--.html","NotificationsController Properties",""];

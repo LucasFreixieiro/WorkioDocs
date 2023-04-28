@@ -1,1 +1,1 @@
-var breadcrumbs=[['-1',"",""],['2',"SOLUTION-WIDE PROPERTIES Reference","topic_000000000000038A.html"],['228',"Workio.Controllers Namespace","topic_00000000000000C3.html"],['301',"TeamsController Class","topic_00000000000000FB.html"],['303',"Methods","topic_00000000000000FB_methods--.html"],['324',"GiveOwnership Method","topic_0000000000000119.html"]];
+var breadcrumbs=[['-1',"",""],['2',"Workio Reference","topic_0000000000000632.html"],['556',"Workio.Controllers.Chat Namespace","topic_0000000000000118.html"],['557',"ChatController Class","topic_0000000000000119.html"]];

@@ -1,1 +1,1 @@
-search_result['1195']=["topic_00000000000002D1.html","ITeamsService.AreTeammates Method","Verifica se dois utilizadores pertencem a mesma equipa"];
+search_result['1195']=["topic_00000000000001B9.html","TeamsController.RejectUser Method","Rejeita o pedido de adesão de um utilizador a um equipa."];
